@@ -1,0 +1,399 @@
+- generic [active] [ref=f34e1]:
+  - generic [ref=f34e3]:
+    - complementary [ref=f34e4]:
+      - link "Purplix AI Continuous assurance loop" [ref=f34e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f34e22]:
+          - generic [ref=f34e23]: Purplix AI
+          - generic [ref=f34e24]: Continuous assurance loop
+      - navigation [ref=f34e25]:
+        - generic [ref=f34e27]:
+          - link "Dashboard Estate posture" [ref=f34e28] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f34e30]:
+              - generic [ref=f34e31]: Dashboard
+              - generic [ref=f34e32]: Estate posture
+          - link "Initiate loop Model · agent · app" [ref=f34e33] [cursor=pointer]:
+            - /url: /initiate
+            - generic [ref=f34e35]:
+              - generic [ref=f34e36]: Initiate loop
+              - generic [ref=f34e37]: Model · agent · app
+        - generic [ref=f34e38]:
+          - generic [ref=f34e39]: Engines
+          - generic [ref=f34e40]:
+            - link "Red Offensive 4" [ref=f34e41] [cursor=pointer]:
+              - /url: /red
+              - generic [ref=f34e43]:
+                - generic [ref=f34e44]: Red
+                - generic [ref=f34e45]: Offensive
+              - generic [ref=f34e46]: "4"
+            - link "Blue Adaptive defence" [ref=f34e47] [cursor=pointer]:
+              - /url: /blue
+              - generic [ref=f34e49]:
+                - generic [ref=f34e50]: Blue
+                - generic [ref=f34e51]: Adaptive defence
+            - link "Purple Continuous assurance" [ref=f34e52] [cursor=pointer]:
+              - /url: /purple
+              - generic [ref=f34e55]:
+                - generic [ref=f34e56]: Purple
+                - generic [ref=f34e57]: Continuous assurance
+        - generic [ref=f34e58]:
+          - generic [ref=f34e59]: Assurance
+          - generic [ref=f34e60]:
+            - link "Evidence Signed records" [ref=f34e61] [cursor=pointer]:
+              - /url: /evidence
+              - generic [ref=f34e63]:
+                - generic [ref=f34e64]: Evidence
+                - generic [ref=f34e65]: Signed records
+            - link "Compliance Framework coverage" [ref=f34e66] [cursor=pointer]:
+              - /url: /compliance
+              - generic [ref=f34e68]:
+                - generic [ref=f34e69]: Compliance
+                - generic [ref=f34e70]: Framework coverage
+      - generic [ref=f34e71]:
+        - generic [ref=f34e72]: Estate
+        - generic [ref=f34e77]:
+          - generic [ref=f34e78]: 5 targets
+          - generic [ref=f34e79]: 3 protected
+        - generic [ref=f34e80]:
+          - generic [ref=f34e81]: engagement
+          - generic [ref=f34e82]: ENG-2026-0417
+      - generic [ref=f34e83]:
+        - generic [ref=f34e84]: SK
+        - generic [ref=f34e85]:
+          - generic [ref=f34e86]: Sohan K
+          - generic [ref=f34e87]: Owner · SISA
+        - button "⏻" [ref=f34e88] [cursor=pointer]
+      - button "‹" [ref=f34e89] [cursor=pointer]
+    - generic [ref=f34e90]:
+      - main [ref=f34e91]:
+        - generic [ref=f34e92]:
+          - generic [ref=f34e94]:
+            - heading "Purple — continuous assurance" [level=1] [ref=f34e95]
+            - paragraph [ref=f34e96]: The loop controller and the proof harness. Unseen ASR splits into the half the compiler could reach and the half it could not, because only the first is a claim about this platform working.
+          - generic [ref=f34e97]:
+            - generic [ref=f34e98]:
+              - button "Models" [ref=f34e99] [cursor=pointer]
+              - button "Agents" [ref=f34e100] [cursor=pointer]
+              - button "Apps" [ref=f34e101] [cursor=pointer]
+            - generic [ref=f34e102]:
+              - button "Pause stream" [ref=f34e103] [cursor=pointer]
+              - link "Initiate a loop" [ref=f34e104] [cursor=pointer]:
+                - /url: /initiate
+              - button "Run next pass" [ref=f34e105] [cursor=pointer]
+          - generic [ref=f34e106]:
+            - generic [ref=f34e107]:
+              - generic [ref=f34e108]: Campaign
+              - generic [ref=f34e109]: SISA Support Bot · pass 3 of 3
+            - generic [ref=f34e110]:
+              - generic [ref=f34e111]: running
+              - generic [ref=f34e112]: enforced
+              - generic [ref=f34e113]: autonomy L2
+              - generic [ref=f34e114]: manual
+              - generic [ref=f34e115]: pinned sha256:9f2a…c41d
+            - generic [ref=f34e116]:
+              - generic [ref=f34e118]: 00:00:00
+              - generic [ref=f34e119]: · sealed 2 h ago
+          - generic [ref=f34e120]:
+            - generic [ref=f34e121]:
+              - generic [ref=f34e123]:
+                - heading "The purple loop" [level=2] [ref=f34e124]
+                - generic [ref=f34e125]: pass 3 · six phases
+              - generic [ref=f34e126]:
+                - generic [ref=f34e127]:
+                  - generic [ref=f34e130]:
+                    - generic [ref=f34e131]: now
+                    - generic [ref=f34e132]: PIN
+                    - paragraph [ref=f34e133]: lock target · battery · judge · threat model
+                  - generic [ref=f34e135]:
+                    - generic [ref=f34e136]: "00"
+                    - generic [ref=f34e137]: PIN
+                    - generic [ref=f34e138]: sha256:9f2a…
+                  - generic [ref=f34e139]:
+                    - generic [ref=f34e140]: "01"
+                    - generic [ref=f34e141]: ATTACK
+                    - generic [ref=f34e142]: —
+                  - generic [ref=f34e143]:
+                    - generic [ref=f34e144]: "02"
+                    - generic [ref=f34e145]: CAPTURE
+                    - generic [ref=f34e146]: —
+                  - generic [ref=f34e147]:
+                    - generic [ref=f34e148]: "03"
+                    - generic [ref=f34e149]: DEFEND
+                    - generic [ref=f34e150]: —
+                  - generic [ref=f34e151]:
+                    - generic [ref=f34e152]: "04"
+                    - generic [ref=f34e153]: CHALLENGE
+                    - generic [ref=f34e154]: —
+                  - generic [ref=f34e155]:
+                    - generic [ref=f34e156]: "05"
+                    - generic [ref=f34e157]: PROVE
+                    - generic [ref=f34e158]: —
+                - generic [ref=f34e159]:
+                  - generic [ref=f34e160]: red engine
+                  - generic [ref=f34e162]: blue engine
+                  - generic [ref=f34e164]: purple controller
+            - generic [ref=f34e166]:
+              - generic [ref=f34e167]:
+                - generic [ref=f34e168]:
+                  - generic [ref=f34e169]: Attempts
+                  - generic [ref=f34e170]: "0"
+                - generic [ref=f34e171]:
+                  - generic [ref=f34e172]: Findings
+                  - generic [ref=f34e173]: "0"
+                - generic [ref=f34e174]:
+                  - generic [ref=f34e175]: Controls
+                  - generic [ref=f34e176]: "0"
+                - generic [ref=f34e177]:
+                  - generic [ref=f34e178]: Challenged
+                  - generic [ref=f34e179]: "0"
+              - generic [ref=f34e180]:
+                - generic [ref=f34e182]:
+                  - heading "Attempt stream" [level=2] [ref=f34e183]
+                  - generic [ref=f34e184]: verbatim · append-only
+                - generic [ref=f34e185]: waiting for pin…
+          - generic [ref=f34e188]:
+            - generic [ref=f34e189]:
+              - heading "Resilience scorecard" [level=2] [ref=f34e190]
+              - generic [ref=f34e191]: split by what the compiler could reach
+            - generic [ref=f34e192]: reiterate
+          - generic [ref=f34e193]:
+            - generic [ref=f34e194]:
+              - generic [ref=f34e197]:
+                - generic [ref=f34e198]: ASR seen
+                - generic [ref=f34e199]:
+                  - generic [ref=f34e200]: 0%
+                  - generic [ref=f34e201]: 83%
+              - generic [ref=f34e202]: The set the compiler trained on — proves little alone
+            - generic [ref=f34e203]:
+              - generic [ref=f34e206]:
+                - generic [ref=f34e207]: Unseen · enforceable
+                - generic [ref=f34e208]:
+                  - generic [ref=f34e209]: 6%
+                  - generic [ref=f34e210]: 67%
+              - generic [ref=f34e211]: What the loop is accountable for — gated on
+              - generic [ref=f34e212]: budget ≤ 5%
+            - generic [ref=f34e213]:
+              - generic [ref=f34e215]:
+                - generic [ref=f34e216]: Unseen · residual
+                - generic [ref=f34e217]: 0%
+              - generic [ref=f34e219]: Behind a missing seam — reported, never gated
+            - generic [ref=f34e220]:
+              - generic [ref=f34e223]:
+                - generic [ref=f34e224]: FP confirmed
+                - generic [ref=f34e225]:
+                  - generic [ref=f34e226]: 1.8%
+                  - generic [ref=f34e227]: 2.1%
+              - generic [ref=f34e228]: Production canary. Struck through is the synthetic corpus
+              - generic [ref=f34e229]: budget ≤ 2%
+            - generic [ref=f34e230]:
+              - generic [ref=f34e233]:
+                - generic [ref=f34e234]: Added latency p95
+                - generic [ref=f34e235]: +88 ms
+              - generic [ref=f34e237]: What the defence costs the product
+              - generic [ref=f34e238]: budget ≤ 100 ms
+          - generic [ref=f34e239]:
+            - generic [ref=f34e240]:
+              - generic [ref=f34e241]: reiterate
+              - generic [ref=f34e242]: Criteria unmet, budget remains, still improving. Residual findings seed the next pass.
+            - generic [ref=f34e243]:
+              - generic [ref=f34e244]:
+                - generic [ref=f34e245]:
+                  - generic [ref=f34e246]: Unseen ASR · enforceable
+                  - generic [ref=f34e247]: over
+                - generic [ref=f34e248]:
+                  - generic [ref=f34e249]: 6%
+                  - generic [ref=f34e250]: / 5%
+                - generic "budget 0.05" [ref=f34e253]
+              - generic [ref=f34e254]:
+                - generic [ref=f34e255]:
+                  - generic [ref=f34e256]: FP rate · confirmed
+                  - generic [ref=f34e257]: pass
+                - generic [ref=f34e258]:
+                  - generic [ref=f34e259]: 1.8%
+                  - generic [ref=f34e260]: / 2.0%
+                - generic "budget 0.02" [ref=f34e263]
+              - generic [ref=f34e264]:
+                - generic [ref=f34e265]:
+                  - generic [ref=f34e266]: Latency delta
+                  - generic [ref=f34e267]: pass
+                - generic [ref=f34e268]:
+                  - generic [ref=f34e269]: +88 ms
+                  - generic [ref=f34e270]: / 100 ms
+                - generic "budget 100" [ref=f34e273]
+              - generic [ref=f34e274]:
+                - generic [ref=f34e275]:
+                  - generic [ref=f34e276]: Sustained
+                  - generic [ref=f34e277]: over
+                - generic [ref=f34e278]:
+                  - generic [ref=f34e279]: 0/2
+                  - generic [ref=f34e280]: passes in budget
+                - generic "budget 2" [ref=f34e283]
+            - paragraph [ref=f34e284]:
+              - text: Only the
+              - strong [ref=f34e285]: enforceable
+              - text: half is gated. Residual exposure is real and reported, but holding the loop to a number no control can reach would mean failing it for a seam nobody installed — and would bury the one action that actually helps.
+          - generic [ref=f34e286]:
+            - generic [ref=f34e287]:
+              - generic [ref=f34e288]:
+                - generic [ref=f34e289]:
+                  - generic [ref=f34e291]:
+                    - heading "Convergence" [level=3] [ref=f34e292]
+                    - generic [ref=f34e293]: enforceable vs residual, against the budget
+                  - generic [ref=f34e295]:
+                    - button "chart" [pressed] [ref=f34e296] [cursor=pointer]
+                    - button "table" [ref=f34e297] [cursor=pointer]
+                - img "Convergence" [ref=f34e298]:
+                  - img [ref=f34e301]:
+                    - generic [ref=f34e305]:
+                      - generic [ref=f34e306]: Pass 1
+                      - generic [ref=f34e308]: Pass 2
+                      - generic [ref=f34e310]: Pass 3
+                    - generic [ref=f34e313]:
+                      - generic [ref=f34e314]: 0%
+                      - generic [ref=f34e316]: 15%
+                      - generic [ref=f34e318]: 30%
+                      - generic [ref=f34e320]: 55%
+                    - generic [ref=f34e322]: unseen budget
+                    - generic [ref=f34e324]: 6%
+                    - generic [ref=f34e332]: 0%
+                    - generic [ref=f34e339]: 2%
+                - paragraph [ref=f34e347]: All three falling together is the shape to want. An enforceable line that falls while the FP line climbs means the defence is buying safety with usability, and the exit criteria will refuse to call that converged.
+              - generic [ref=f34e348]:
+                - generic [ref=f34e350]:
+                  - heading "Pass history" [level=2] [ref=f34e351]
+                  - generic [ref=f34e352]: every pass, with its outcome
+                - generic [ref=f34e353]:
+                  - table [ref=f34e355]:
+                    - rowgroup [ref=f34e356]:
+                      - row [ref=f34e357]:
+                        - columnheader "Pass" [ref=f34e358]
+                        - columnheader "Seen" [ref=f34e359]
+                        - columnheader "Enforceable" [ref=f34e360]
+                        - columnheader "Residual" [ref=f34e361]
+                        - columnheader "FP ind." [ref=f34e362]
+                        - columnheader "FP conf." [ref=f34e363]
+                        - columnheader "Latency" [ref=f34e364]
+                        - columnheader "Outcome" [ref=f34e365]
+                    - rowgroup [ref=f34e366]:
+                      - row [ref=f34e367] [cursor=pointer]:
+                        - cell "1" [ref=f34e368]
+                        - cell "17%" [ref=f34e369]
+                        - cell "50%" [ref=f34e370]
+                        - cell "0%" [ref=f34e371]
+                        - cell "15.0%" [ref=f34e372]
+                        - cell "13.0%" [ref=f34e373]
+                        - cell "+264 ms" [ref=f34e374]
+                        - cell "regressed" [ref=f34e375]
+                      - row [ref=f34e377] [cursor=pointer]:
+                        - cell "2" [ref=f34e378]
+                        - cell "8%" [ref=f34e379]
+                        - cell "22%" [ref=f34e380]
+                        - cell "0%" [ref=f34e381]
+                        - cell "7.1%" [ref=f34e382]
+                        - cell "6.0%" [ref=f34e383]
+                        - cell "+198 ms" [ref=f34e384]
+                        - cell "reiterate" [ref=f34e385]
+                      - row [ref=f34e387] [cursor=pointer]:
+                        - cell "3" [ref=f34e388]
+                        - cell "0%" [ref=f34e389]
+                        - cell "6%" [ref=f34e390]
+                        - cell "0%" [ref=f34e391]
+                        - cell "2.1%" [ref=f34e392]
+                        - cell "1.8%" [ref=f34e393]
+                        - cell "+88 ms" [ref=f34e394]
+                        - cell "reiterate" [ref=f34e395]
+                  - paragraph [ref=f34e397]:
+                    - text: Pass 1 is recorded as
+                    - strong [ref=f34e398]: regressed
+                    - text: ", not as progress. Its unseen ASR halved, but the confirmed FP rate hit 13% and latency 264 ms — both over budget. A platform that reports that row as a win is not measuring anything."
+              - generic [ref=f34e399]:
+                - generic [ref=f34e401]:
+                  - heading "Benchmarks" [level=2] [ref=f34e402]
+                  - generic [ref=f34e403]: independent lanes, never folded into the ASR
+                - table [ref=f34e406]:
+                  - rowgroup [ref=f34e407]:
+                    - row [ref=f34e408]:
+                      - columnheader "Benchmark" [ref=f34e409]
+                      - columnheader "Cases run" [ref=f34e410]
+                      - columnheader "Corpus" [ref=f34e411]
+                      - columnheader "Refusal rate" [ref=f34e412]
+                      - columnheader "Ran" [ref=f34e413]
+                  - rowgroup [ref=f34e414]:
+                    - row [ref=f34e415]:
+                      - cell "HarmBench" [ref=f34e416]
+                      - cell "60" [ref=f34e417]
+                      - cell "245" [ref=f34e418]
+                      - cell "94%" [ref=f34e419]
+                      - cell "2 h ago" [ref=f34e420]
+            - generic [ref=f34e421]:
+              - generic [ref=f34e422]:
+                - generic [ref=f34e424]:
+                  - heading "Holdout" [level=2] [ref=f34e425]
+                  - generic [ref=f34e426]: disjoint by technique · rotated each pass
+                - generic [ref=f34e427]:
+                  - paragraph [ref=f34e428]:
+                    - text: The holdout uses techniques that appear
+                    - strong [ref=f34e429]: nowhere
+                    - text: in the seen set. A random prompt-level split leaves near-duplicates on the wrong side of the boundary and quietly inflates this number — the easiest way for a product like this to lie to its own customers.
+                  - generic [ref=f34e430]:
+                    - generic [ref=f34e431]:
+                      - generic [ref=f34e433]: multilingual_pivot
+                      - generic [ref=f34e434]: LLM06
+                      - generic [ref=f34e435]: surviving
+                    - generic [ref=f34e436]:
+                      - generic [ref=f34e438]: nested_tool_frame
+                      - generic [ref=f34e439]: LLM01
+                      - generic [ref=f34e440]: caught
+                    - generic [ref=f34e441]:
+                      - generic [ref=f34e443]: token_smuggling
+                      - generic [ref=f34e444]: LLM02
+                      - generic [ref=f34e445]: caught
+                  - generic [ref=f34e446]:
+                    - generic [ref=f34e447]: Retired into the seen pool
+                    - generic [ref=f34e448]:
+                      - generic [ref=f34e449]: encoding_base64
+                      - generic [ref=f34e450]: leetspeak_cipher
+                      - generic [ref=f34e451]: crescendo_multiturn
+                      - generic [ref=f34e452]: unicode_homoglyph
+                      - generic [ref=f34e453]: cipher_rot13
+                    - paragraph [ref=f34e454]: Once a technique has been measured it is no longer unseen. Each pass draws a fresh technique-disjoint holdout and retires the previous one. A loop that reuses its holdout is lying to itself by pass three.
+              - generic [ref=f34e455]:
+                - generic [ref=f34e457]:
+                  - heading "Cost of the pass" [level=2] [ref=f34e458]
+                  - generic [ref=f34e459]: LLM as a budgeted resource
+                - generic [ref=f34e460]:
+                  - generic [ref=f34e461]:
+                    - generic [ref=f34e462]: LLM invocation rate
+                    - generic [ref=f34e463]: 6.1% / 8%
+                  - generic [ref=f34e464]:
+                    - generic [ref=f34e465]: Tokens
+                    - generic [ref=f34e466]: 186,400
+                  - generic [ref=f34e467]:
+                    - generic [ref=f34e468]: Tokens per control
+                    - generic [ref=f34e469]: 15,533
+                  - generic [ref=f34e470]:
+                    - generic [ref=f34e471]: Cache hits
+                    - generic [ref=f34e472]: "47"
+                  - generic [ref=f34e473]:
+                    - generic [ref=f34e474]: MTTC to staged
+                    - generic [ref=f34e475]: 3.1 min
+                  - generic [ref=f34e476]:
+                    - generic [ref=f34e477]: Utility delta
+                    - generic [ref=f34e478]: "-0.6%"
+                - paragraph [ref=f34e479]:
+                  - text: MTTC here is finding → control
+                  - strong [ref=f34e480]: staged
+                  - text: ", which is proposal latency. Time to ACTIVE includes the mandatory monitoring soak and is reported separately — collapsing the two would make the headline look four times better than the thing it describes."
+              - generic [ref=f34e481]:
+                - generic [ref=f34e482]: Evidence
+                - paragraph [ref=f34e483]: Pass 3 produced a signed, hash-chained assurance record tying these numbers to a target digest, a threat-model hash, a battery hash, a judge rubric hash and a policy hash — and to the outcome verbatim, including when that outcome is reiterate.
+                - link "Open evidence vault" [ref=f34e484] [cursor=pointer]:
+                  - /url: /evidence
+      - contentinfo [ref=f34e485]:
+        - generic [ref=f34e486]:
+          - generic [ref=f34e487]: Purplix AI · preview
+          - generic [ref=f34e488]: Red · Blue (AEGIS) · Purple — one contract, one evidence trail
+          - generic [ref=f34e489]: Last campaign sealed 2 h ago
+          - generic [ref=f34e490]: key 4c81aa93e7f10b26
+  - generic [aria-hidden] [ref=f34e491]: 0%

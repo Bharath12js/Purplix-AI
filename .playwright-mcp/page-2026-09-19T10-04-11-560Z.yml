@@ -1,0 +1,224 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e3]:
+    - link "Skip to content" [ref=f1e4] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=f1e5]:
+      - navigation "Primary" [ref=f1e7]:
+        - link "Purplix AI — home" [ref=f1e8] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f1e23]:
+            - generic [ref=f1e24]: Purplix AI
+            - generic [ref=f1e25]: Continuous assurance loop
+        - generic [ref=f1e26]:
+          - link "The loop" [ref=f1e27] [cursor=pointer]:
+            - /url: "#loop"
+          - link "Layers" [ref=f1e28] [cursor=pointer]:
+            - /url: "#layers"
+          - link "Live evidence" [ref=f1e29] [cursor=pointer]:
+            - /url: "#evidence"
+        - generic [ref=f1e30]:
+          - link "Sign in" [ref=f1e31] [cursor=pointer]:
+            - /url: /login
+          - link "Book a demo" [ref=f1e32] [cursor=pointer]:
+            - /url: /login
+    - main [ref=f1e33]:
+      - generic [ref=f1e34]:
+        - generic [ref=f1e35]:
+          - generic [ref=f1e36]: Red → Blue → Purple · one loop, running
+          - heading "Attack it. Defend it. Prove it holds." [level=1] [ref=f1e38]: Attack it. Defend it.Prove it holds.
+          - paragraph [ref=f1e39]: Purplix red-teams your models, agents and AI applications — then compiles the defence out of every finding and re-attacks with techniques the compiler has never seen. A continuous assurance loop, not a one-off scan.
+          - generic [ref=f1e40]:
+            - link "Start an exposure" [ref=f1e41] [cursor=pointer]:
+              - /url: /login
+            - link "Watch the loop converge" [ref=f1e44] [cursor=pointer]:
+              - /url: "#evidence"
+          - generic [ref=f1e45]:
+            - generic [ref=f1e46]: Findings mapped to
+            - list [ref=f1e47]:
+              - listitem [ref=f1e48]: OWASP LLM Top 10
+              - listitem [ref=f1e49]: OWASP Agentic
+              - listitem [ref=f1e50]: MITRE ATLAS
+              - listitem [ref=f1e51]: NIST AI RMF
+              - listitem [ref=f1e52]: ISO 42001
+              - listitem [ref=f1e53]: EU AI Act
+        - generic [aria-hidden] [ref=f1e54]:
+          - generic [ref=f1e80]:
+            - generic [ref=f1e82]: Red
+            - generic [ref=f1e83]: attack
+          - generic [ref=f1e84]:
+            - generic [ref=f1e86]: Blue
+            - generic [ref=f1e87]: defend
+          - generic [ref=f1e88]:
+            - generic [ref=f1e90]: Purple
+            - generic [ref=f1e91]: assure
+      - generic [ref=f1e93]:
+        - generic [ref=f1e94]:
+          - generic [ref=f1e95]: 0%
+          - generic [ref=f1e96]: Unseen ASR reduction
+          - generic [ref=f1e97]: 67% → 6% across 3 passes
+        - generic [ref=f1e98]:
+          - generic [ref=f1e99]: "0"
+          - generic [ref=f1e100]: Findings, every one with a transcript
+          - generic [ref=f1e101]: 5 targets · no count without a path
+        - generic [ref=f1e102]:
+          - generic [ref=f1e103]: "0"
+          - generic [ref=f1e104]: Controls active in production
+          - generic [ref=f1e105]: Signed, diffable, reversible — never a fine-tune
+        - generic [ref=f1e106]:
+          - generic [ref=f1e107]: 0×
+          - generic [ref=f1e108]: Layers under the same loop
+          - generic [ref=f1e109]: Model · agent · app
+      - generic [ref=f1e110]:
+        - generic [ref=f1e111]:
+          - generic [ref=f1e112]: How it works
+          - heading "One loop. Three engines." [level=2] [ref=f1e113]
+          - paragraph [ref=f1e114]: Every finding is bound to the control that fixes it, and that control is proven against attacks it was never compiled to stop.
+        - generic [ref=f1e115]:
+          - link "01 · RED Attack everything Purplix-authored attack packs drive prompt injection, jailbreaks, tool misuse and RAG poisoning across all three layers. Every verdict is graded by a two-pass judge that escalates only when the cheap tier is unsure. 16 findings · 67% unseen ASR on first contact" [ref=f1e116] [cursor=pointer]:
+            - /url: /red
+            - generic [ref=f1e123]: 01 · RED
+            - heading "Attack everything" [level=3] [ref=f1e124]
+            - paragraph [ref=f1e125]: Purplix-authored attack packs drive prompt injection, jailbreaks, tool misuse and RAG poisoning across all three layers. Every verdict is graded by a two-pass judge that escalates only when the cheap tier is unsure.
+            - generic [ref=f1e126]: 16 findings · 67% unseen ASR on first contact
+          - link "02 · BLUE Compile the defence Each finding compiles into a signed control bundle — L1 input detection, L2 output gating, L3 system-prompt and tool-scope hardening — deployed as an inline wrapper in front of the target. Diffable, reversible, never a fine-tune. 9 active · each names the findings it came from" [ref=f1e131] [cursor=pointer]:
+            - /url: /blue
+            - generic [ref=f1e137]: 02 · BLUE
+            - heading "Compile the defence" [level=3] [ref=f1e138]
+            - paragraph [ref=f1e139]: Each finding compiles into a signed control bundle — L1 input detection, L2 output gating, L3 system-prompt and tool-scope hardening — deployed as an inline wrapper in front of the target. Diffable, reversible, never a fine-tune.
+            - generic [ref=f1e140]: 9 active · each names the findings it came from
+          - link "03 · PURPLE Prove it holds Re-attack with held-out techniques the compiler never saw, measure unseen ASR, false positives on benign traffic and added latency, then seal a signed assurance record. The loop re-runs until the exit criteria hold twice in a row. Pass 3 of 5 · 6% unseen ASR" [ref=f1e145] [cursor=pointer]:
+            - /url: /purple
+            - generic [ref=f1e153]: 03 · PURPLE
+            - heading "Prove it holds" [level=3] [ref=f1e154]
+            - paragraph [ref=f1e155]: Re-attack with held-out techniques the compiler never saw, measure unseen ASR, false positives on benign traffic and added latency, then seal a signed assurance record. The loop re-runs until the exit criteria hold twice in a row.
+            - generic [ref=f1e156]: Pass 3 of 5 · 6% unseen ASR
+      - generic [ref=f1e162]:
+        - generic [ref=f1e163]:
+          - generic [ref=f1e164]: Three pillars
+          - heading "Defends every layer of your AI stack" [level=2] [ref=f1e165]
+          - paragraph [ref=f1e166]: The same loop, specialised for what each layer actually gets wrong. Pillars are what is under test — they are not the enforcement layers.
+        - generic [ref=f1e167]:
+          - article [ref=f1e168]:
+            - heading "Model" [level=3] [ref=f1e174]
+            - paragraph [ref=f1e175]: The model as deployed — system prompt, retrieval context and I/O handling. Prompt injection, canary leakage and unsafe output, closed by detection and structural defences rather than by more instructions.
+            - list [ref=f1e176]:
+              - listitem [ref=f1e177]: LLM01 prompt injection
+              - listitem [ref=f1e178]: LLM02 disclosure
+              - listitem [ref=f1e179]: AML.T0051
+          - article [ref=f1e180]:
+            - heading "Agent" [level=3] [ref=f1e186]
+            - paragraph [ref=f1e187]: Tools, memory, MCP surfaces and delegation. Goal hijack, tool misuse and memory poisoning stopped by an out-of-process authorizer and egress deny-lists the agent cannot talk its way past.
+            - list [ref=f1e188]:
+              - listitem [ref=f1e189]: LLM06 excessive agency
+              - listitem [ref=f1e190]: ASI01 goal hijack
+              - listitem [ref=f1e191]: ASI02 tool misuse
+          - article [ref=f1e192]:
+            - heading "App" [level=3] [ref=f1e197]
+            - paragraph [ref=f1e198]: The code, dependencies, container and HTTP surface the model runs inside. SSRF, IDOR, cross-tenant retrieval and leaked secrets — because a perfect guardrail on an owned box is theatre.
+            - list [ref=f1e199]:
+              - listitem [ref=f1e200]: SSRF
+              - listitem [ref=f1e201]: IDOR
+              - listitem [ref=f1e202]: cross-tenant retrieval
+      - generic [ref=f1e203]:
+        - generic [ref=f1e204]:
+          - generic [ref=f1e205]: Live evidence
+          - heading "Watch the loop converge — or fail to" [level=2] [ref=f1e207]
+          - paragraph [ref=f1e208]: Real techniques, real controls, measured on held-out attacks. These are the reference campaign's own figures, not a rounded-up version of them.
+        - generic [ref=f1e209]:
+          - generic [ref=f1e210]:
+            - generic [ref=f1e211]:
+              - heading "Attack stream" [level=3] [ref=f1e212]
+              - generic [ref=f1e213]: pass 3
+              - button "Pause the attack stream" [ref=f1e215] [cursor=pointer]
+            - list [ref=f1e220]:
+              - listitem [ref=f1e221]:
+                - generic [ref=f1e223]: authority_impersonation → model.system_prompt
+                - generic [ref=f1e224]: Blocked
+              - listitem [ref=f1e225]:
+                - generic [ref=f1e227]: crescendo_multiturn → support agent
+                - generic [ref=f1e228]: Blocked
+              - listitem [ref=f1e229]:
+                - generic [ref=f1e231]: encoding_base64 → canary exfil
+                - generic [ref=f1e232]: Blocked
+              - listitem [ref=f1e233]:
+                - generic [ref=f1e235]: benign · "summarise my last invoice"
+                - generic [ref=f1e236]: Allowed
+              - listitem [ref=f1e237]:
+                - generic [ref=f1e239]: poisoned RAG chunk → policy override
+                - generic [ref=f1e240]: Blocked
+              - listitem [ref=f1e241]:
+                - generic [ref=f1e243]: multilingual_pivot (hi-IN) → advice rules
+                - generic [ref=f1e244]: Landed
+          - generic [ref=f1e245]:
+            - generic [ref=f1e246]:
+              - generic [ref=f1e247]:
+                - generic [ref=f1e249]:
+                  - heading "Held-out ASR by pass" [level=3] [ref=f1e250]
+                  - generic [ref=f1e251]: exit at ≤ 5%, sustained 2 passes
+                - generic [ref=f1e253]:
+                  - button "chart" [pressed] [ref=f1e254] [cursor=pointer]
+                  - button "table" [ref=f1e255] [cursor=pointer]
+              - img "Held-out ASR by pass" [ref=f1e256]:
+                - img [ref=f1e259]:
+                  - generic [ref=f1e263]:
+                    - generic [ref=f1e264]: Pass 1
+                    - generic [ref=f1e266]: Pass 2
+                    - generic [ref=f1e268]: Pass 3
+                  - generic [ref=f1e271]:
+                    - generic [ref=f1e272]: 0%
+                    - generic [ref=f1e274]: 15%
+                    - generic [ref=f1e276]: 30%
+                    - generic [ref=f1e278]: 45%
+                    - generic [ref=f1e280]: 60%
+                  - generic [ref=f1e282]: budget
+              - paragraph [ref=f1e292]:
+                - text: Attack success on techniques the compiler never saw fell from
+                - strong [ref=f1e293]: 50%
+                - text: to
+                - strong [ref=f1e294]: 6%
+                - text: . That is still
+                - strong [ref=f1e295]: above
+                - text: the 5% budget, so pass 3 has
+                - strong [ref=f1e296]: not converged
+                - text: and the loop keeps running. A landing page showing 0% would be the fastest way to tell you the chart had been cropped.
+            - generic [ref=f1e297]:
+              - generic [ref=f1e298]:
+                - generic [ref=f1e299]: Unseen ASR
+                - generic [ref=f1e300]: 6%
+                - generic [ref=f1e301]: budget 5% ✗
+              - generic [ref=f1e302]:
+                - generic [ref=f1e303]: FP rate (benign)
+                - generic [ref=f1e304]: 1.8%
+                - generic [ref=f1e305]: budget 2% ✓
+              - generic [ref=f1e306]:
+                - generic [ref=f1e307]: Added latency p95
+                - generic [ref=f1e308]: +88 ms
+                - generic [ref=f1e309]: budget +100 ms ✓
+              - generic [ref=f1e310]:
+                - generic [ref=f1e311]: Controls proven
+                - generic [ref=f1e312]: "6"
+                - generic [ref=f1e313]: signed · reversible ✓
+      - generic [ref=f1e317]:
+        - heading "Stop shipping AI on trust." [level=2] [ref=f1e318]
+        - paragraph [ref=f1e319]: Turn every red-team finding into a signed, reversible defence — and a record an auditor can verify without taking your word for any of it.
+        - generic [ref=f1e320]:
+          - link "Book a demo" [ref=f1e321] [cursor=pointer]:
+            - /url: /login
+          - link "Sign in" [ref=f1e324] [cursor=pointer]:
+            - /url: /login
+    - contentinfo [ref=f1e325]:
+      - generic [ref=f1e326]:
+        - generic [ref=f1e338]:
+          - generic [ref=f1e339]: Purplix AI
+          - generic [ref=f1e340]: Continuous assurance loop
+        - navigation "Footer" [ref=f1e341]:
+          - link "The loop" [ref=f1e342] [cursor=pointer]:
+            - /url: "#loop"
+          - link "Layers" [ref=f1e343] [cursor=pointer]:
+            - /url: "#layers"
+          - link "Live evidence" [ref=f1e344] [cursor=pointer]:
+            - /url: "#evidence"
+          - link "Sign in" [ref=f1e345] [cursor=pointer]:
+            - /url: /login
+        - generic [ref=f1e346]: Preview build · figures from pass 3 of engagement ENG-2026-0417
+  - generic [aria-hidden] [ref=f1e347]: 0%

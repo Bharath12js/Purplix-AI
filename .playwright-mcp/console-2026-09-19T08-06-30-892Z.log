@@ -1,0 +1,72 @@
+[     240ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:15804
+[    8579ms] [ERROR] Error handled by React Router default ErrorBoundary: TypeError: Cannot read properties of undefined (reading 't')
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:98
+    at Array.some (<anonymous>)
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:84
+    at Array.filter (<anonymous>)
+    at Red (http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:64)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:14142:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:4400:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:5775:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:6391:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:944:66) @ http://127.0.0.1:5173/@vite/client:298
+[    8581ms] [ERROR] Error handled by React Router default ErrorBoundary: TypeError: Cannot read properties of undefined (reading 't')
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:98
+    at Array.some (<anonymous>)
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:84
+    at Array.filter (<anonymous>)
+    at Red (http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:64)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:14142:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:4400:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:5775:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:6391:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:944:66) @ http://127.0.0.1:5173/@vite/client:298
+[    8585ms] [ERROR] Error handled by React Router default ErrorBoundary: TypeError: Cannot read properties of undefined (reading 't')
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:98
+    at Array.some (<anonymous>)
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:84
+    at Array.filter (<anonymous>)
+    at Red (http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:64)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:14142:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:4400:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:5775:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:6391:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:944:66) @ http://127.0.0.1:5173/@vite/client:298
+[    8586ms] [ERROR] Error handled by React Router default ErrorBoundary: TypeError: Cannot read properties of undefined (reading 't')
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:98
+    at Array.some (<anonymous>)
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:84
+    at Array.filter (<anonymous>)
+    at Red (http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:64)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:14142:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:4400:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:5775:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:6391:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:944:66) @ http://127.0.0.1:5173/@vite/client:298
+[    8589ms] [ERROR] %o
+
+%s
+
+%s
+ TypeError: Cannot read properties of undefined (reading 't')
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:98
+    at Array.some (<anonymous>)
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:84
+    at Array.filter (<anonymous>)
+    at Red (http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:64)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:14142:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:4400:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:5775:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:6391:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:944:66) The above error occurred in the <Red> component. React will try to recreate this component tree from scratch using the error boundary you provided, RenderErrorBoundary. @ http://127.0.0.1:5173/@vite/client:298
+[    8589ms] [ERROR] React Router caught the following error during render TypeError: Cannot read properties of undefined (reading 't')
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:98
+    at Array.some (<anonymous>)
+    at http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:84
+    at Array.filter (<anonymous>)
+    at Red (http://127.0.0.1:5173/src/views/Red.tsx?t=1789805168154:122:64)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:14142:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:4400:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:5775:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:6391:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=4b48da62:944:66) @ http://127.0.0.1:5173/@vite/client:298

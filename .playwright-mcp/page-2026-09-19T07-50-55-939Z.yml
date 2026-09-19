@@ -1,0 +1,28 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7]: P
+        - generic [ref=e8]:
+          - generic [ref=e9]: Purplix AI
+          - generic [ref=e10]: Continuous purple teaming
+      - navigation [ref=e11]:
+        - link "Dashboard" [ref=e12] [cursor=pointer]:
+          - /url: /
+        - link "Red" [ref=e13] [cursor=pointer]:
+          - /url: /red
+        - link "Blue" [ref=e14] [cursor=pointer]:
+          - /url: /blue
+        - link "Purple" [ref=e15] [cursor=pointer]:
+          - /url: /purple
+      - generic [ref=e16]: 0 cached calls
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - heading "Estate posture" [level=1] [ref=e20]
+      - paragraph [ref=e21]: Every number here is clickable down to the transcript that produced it.
+    - generic [ref=e22]:
+      - generic [ref=e23]: ◇
+      - generic [ref=e24]:
+        - generic [ref=e25]: No exposures run yet
+        - generic [ref=e26]: Purplix measures a target by attacking it, compiling a defence from what lands, then re-attacking with techniques the compiler never saw.
+      - button "Run first exposure" [ref=e27] [cursor=pointer]

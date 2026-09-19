@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root { height: 100%; }
+  body {
+    @apply bg-surface font-sans text-body antialiased;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'ss01';
+  }
+  h1, h2, h3 { @apply text-ink; letter-spacing: -0.018em; }
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-thumb { @apply rounded-pill border-[3px] border-solid border-transparent bg-border bg-clip-content; }
+  ::-webkit-scrollbar-thumb:hover { @apply bg-faint bg-clip-content; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::selection { @apply bg-brand-200 text-brand-800; }
+  :focus-visible { @apply outline-none ring-2 ring-brand-300 ring-offset-2 ring-offset-surface; }
+}
+
+@layer components {
+  /* Cards: 1px border + the faintest lift. Depth comes from the border, the
+     shadow only keeps them from looking pasted onto the page. */
+  .card  { @apply rounded-2xl border border-border bg-card shadow-xs; }
+  .card-raised { @apply rounded-2xl border border-border bg-card shadow-sm; }
+
+  .pill  { @apply inline-flex items-center gap-1 rounded-pill px-2 py-0.5 text-[11px] font-semibold leading-5; }
+
+  .btn   { @apply inline-flex select-none items-center justify-center gap-2 rounded-xl px-3.5 py-2
+                  text-[13px] font-semibold transition-all duration-150
+                  disabled:cursor-not-allowed disabled:opacity-40; }
+  .btn-primary { @apply btn bg-brand text-white shadow-brand hover:bg-brand-deep hover:shadow-md active:translate-y-px; }
+  .btn-ghost   { @apply btn border border-border bg-card text-ink shadow-xs
+                        hover:border-brand-200 hover:bg-brand-50 active:translate-y-px; }
+  .btn-quiet   { @apply btn text-muted hover:bg-brand-50 hover:text-brand-deep; }
+
+  .label { @apply text-2xs font-semibold uppercase tracking-[0.11em] text-muted; }
+  .num   { font-variant-numeric: tabular-nums; }
+
+  .input { @apply w-full rounded-xl border border-border bg-card px-3.5 py-2.5 text-[13.5px] text-ink
+                  placeholder:text-faint focus:border-brand-300 focus:outline-none
+                  focus:ring-4 focus:ring-brand-100; }
+
+  /* Table conventions defined once, so every table in the product matches. */
+  .tbl       { @apply w-full text-[13px]; }
+  .tbl thead tr { @apply border-b border-border; }
+  .tbl th    { @apply px-4 py-2.5 text-left text-2xs font-semibold uppercase tracking-[0.11em] text-muted; }
+  .tbl td    { @apply border-b border-hair px-4 py-3 align-middle; }
+  .tbl tbody tr:last-child td { @apply border-b-0; }
+  .tbl tbody tr.clickable { @apply cursor-pointer transition-colors hover:bg-brand-50/70; }
+}
+
+/* Streaming placeholder. */
+.shimmer {
+  background: linear-gradient(90deg, #F0ECF7 25%, #F9F7FC 50%, #F0ECF7 75%);
+  background-size: 200% 100%;
+  animation: sheen 1.4s linear infinite;
+}
+@keyframes sheen { from { background-position: 200% 0 } to { background-position: -200% 0 } }
+
+/* Stagger helper for lists that populate while a run streams. */
+.stagger > * { animation: fade-up .24s cubic-bezier(.22,1,.36,1) both; }
+.stagger > *:nth-child(1) { animation-delay: .02s }
+.stagger > *:nth-child(2) { animation-delay: .05s }
+.stagger > *:nth-child(3) { animation-delay: .08s }
+.stagger > *:nth-child(4) { animation-delay: .11s }
+.stagger > *:nth-child(5) { animation-delay: .14s }
+.stagger > *:nth-child(6) { animation-delay: .17s }
+@keyframes fade-up { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: none } }
+
+/* ===========================================================================
+   Landing page (marketing) — motion only.
+   ---------------------------------------------------------------------------
+   Scoped under .lp-* so nothing here can leak into the console. The console is
+   an operations tool and stays near-static; the landing page is the one screen
+   allowed to move, because the thing it has to explain — a closed loop — is a
+   motion idea. Every animation below is switched off wholesale by the
+   reduced-motion block at the end, which renders the final readable state.
+   =========================================================================== */
+
+/* Entry: hero copy lifts in a short stagger. Delay is set inline per element
+   rather than by nth-child, so reordering the hero cannot silently reorder
+   the choreography. */
+.lp-rise { opacity: 0; animation: lp-rise .62s cubic-bezier(.22,1,.36,1) forwards; }
+@keyframes lp-rise { from { opacity: 0; transform: translateY(18px) } to { opacity: 1; transform: none } }
+
+/* Scroll reveal. The class is added by an IntersectionObserver, so a section
+   never animates off-screen and never re-animates on the way back up. */
+.lp-reveal { opacity: 0; transform: translateY(22px);
+             transition: opacity .6s cubic-bezier(.22,1,.36,1), transform .6s cubic-bezier(.22,1,.36,1); }
+.lp-reveal.is-in { opacity: 1; transform: none; }
+
+/* The loop visual. A rotating wrapper carries each orb rather than
+   `offset-path`, which Firefox only learned recently — a transform rotation
+   is the same picture with none of the support risk. */
+.lp-orbit { position: absolute; inset: 0; animation: lp-spin var(--dur, 12s) linear infinite;
+            animation-delay: var(--delay, 0s); }
+.lp-track { animation: lp-spin 70s linear infinite; }
+.lp-sweep { animation: lp-spin 7s linear infinite; }
+@keyframes lp-spin { to { transform: rotate(360deg) } }
+
+/* The core breathes rather than pulses — a 4s ease is a heartbeat, a 1s one is
+   an alarm, and nothing here is alarming. */
+.lp-breathe { animation: lp-breathe 4.2s ease-in-out infinite; }
+@keyframes lp-breathe { 0%,100% { transform: scale(1); opacity: .75 } 50% { transform: scale(1.1); opacity: 1 } }
+
+/* Ambient mesh blobs. Long, out-of-phase durations so the background never
+   develops a visible beat. */
+.lp-drift-a { animation: lp-drift-a 26s ease-in-out infinite; }
+.lp-drift-b { animation: lp-drift-b 32s ease-in-out infinite; }
+@keyframes lp-drift-a { 0%,100% { transform: none } 50% { transform: translate(-38px, 46px) scale(1.09) } }
+@keyframes lp-drift-b { 0%,100% { transform: none } 50% { transform: translate(52px, -36px) scale(1.07) } }
+
+/* New rows enter the attack ticker from the top, the direction they arrive
+   from. Entering downward would read as the list scrolling, not as an event. */
+.lp-feed-in { animation: lp-feed-in .42s cubic-bezier(.22,1,.36,1) both; }
+@keyframes lp-feed-in { from { opacity: 0; transform: translateY(-10px) scale(.985) } to { opacity: 1; transform: none } }
+
+/* Gradient wordmark sweep on the hero's second line. */
+.lp-shimmer { background-size: 220% 100%; animation: lp-shimmer 7s linear infinite; }
+@keyframes lp-shimmer { to { background-position: 220% 0 } }
+
+/* The live dot, on the eyebrow and the panel headers. */
+.lp-blink { animation: lp-blink 1.9s ease-in-out infinite; }
+@keyframes lp-blink { 0%,100% { opacity: 1; transform: scale(1) } 50% { opacity: .35; transform: scale(.72) } }
+
+@media (prefers-reduced-motion: reduce) {
+  .lp-rise, .lp-reveal { opacity: 1 !important; transform: none !important; animation: none !important; transition: none !important; }
+  .lp-orbit, .lp-track, .lp-sweep, .lp-breathe, .lp-drift-a, .lp-drift-b,
+  .lp-feed-in, .lp-shimmer, .lp-blink { animation: none !important; }
+}

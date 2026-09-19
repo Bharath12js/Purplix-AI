@@ -1,0 +1,145 @@
+- generic [ref=f6e3]:
+  - banner [ref=f6e4]:
+    - generic [ref=f6e6]:
+      - link "Purplix AI Continuous assurance loop" [ref=f6e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f6e17]:
+          - generic [ref=f6e18]: Purplix AI
+          - generic [ref=f6e19]: Continuous assurance loop
+      - navigation [ref=f6e20]:
+        - link "Dashboard" [ref=f6e21] [cursor=pointer]:
+          - /url: /
+        - link "Red" [ref=f6e23] [cursor=pointer]:
+          - /url: /red
+        - link "Blue" [ref=f6e24] [cursor=pointer]:
+          - /url: /blue
+        - link "Purple" [ref=f6e25] [cursor=pointer]:
+          - /url: /purple
+        - link "Evidence" [ref=f6e27] [cursor=pointer]:
+          - /url: /evidence
+        - link "Compliance" [ref=f6e28] [cursor=pointer]:
+          - /url: /compliance
+      - generic [ref=f6e29]:
+        - generic [ref=f6e30]: 5 targets · 3 protected
+        - generic [ref=f6e32]: SK
+  - main [ref=f6e33]:
+    - generic [ref=f6e34]:
+      - generic [ref=f6e35]:
+        - heading "Evidence vault" [level=1] [ref=f6e36]
+        - paragraph [ref=f6e37]: Signed, hash-chained assurance records. Each one ties a result to the exact target digest, attack-pack hash and policy hash that produced it.
+      - generic [ref=f6e38]:
+        - button "Download public key" [ref=f6e39] [cursor=pointer]
+        - button "Export for auditor" [ref=f6e40] [cursor=pointer]
+    - generic [ref=f6e41]:
+      - generic [ref=f6e42]:
+        - generic [ref=f6e44]: Records
+        - generic [ref=f6e45]: "3"
+        - generic [ref=f6e47]: one per completed iteration
+      - generic [ref=f6e48]:
+        - generic [ref=f6e49]: Chain integrity
+        - generic [ref=f6e50]: Intact
+        - generic [ref=f6e52]: every link verifies
+      - generic [ref=f6e53]:
+        - generic [ref=f6e55]: Signature scheme
+        - generic [ref=f6e56]: Ed25519
+        - generic [ref=f6e58]: self-signed, key published
+      - generic [ref=f6e59]:
+        - generic [ref=f6e60]: Key id
+        - generic [ref=f6e61]: 4c81aa93
+        - generic [ref=f6e63]: verifiable at /.well-known/purplix-key
+    - generic [ref=f6e64]:
+      - generic [ref=f6e65]:
+        - generic [ref=f6e67]:
+          - heading "Hash chain" [level=2] [ref=f6e68]
+          - generic [ref=f6e69]: oldest first
+        - generic [ref=f6e70]:
+          - list [ref=f6e71]:
+            - listitem [ref=f6e72]:
+              - generic [ref=f6e74]: ○
+              - generic [ref=f6e75]:
+                - generic [ref=f6e76]: Genesis
+                - generic [ref=f6e77]: No predecessor — chain starts here
+            - listitem [ref=f6e78]:
+              - button "1" [ref=f6e80] [cursor=pointer]
+              - button "Iteration 1 ✓ verified this a3f19c72be40d881 prev genesis held-out 50% · FP 13% · 19 Sept 2026, 10:42" [ref=f6e81] [cursor=pointer]:
+                - generic [ref=f6e82]:
+                  - generic [ref=f6e83]:
+                    - generic [ref=f6e84]: Iteration 1
+                    - generic [ref=f6e85]: ✓ verified
+                  - generic [ref=f6e86]:
+                    - generic [ref=f6e87]:
+                      - term [ref=f6e88]: this
+                      - definition [ref=f6e89]: a3f19c72be40d881
+                    - generic [ref=f6e90]:
+                      - term [ref=f6e91]: prev
+                      - definition [ref=f6e92]: genesis
+                  - generic [ref=f6e93]:
+                    - generic [ref=f6e94]: held-out 50%
+                    - generic [ref=f6e95]: ·
+                    - generic [ref=f6e96]: FP 13%
+                    - generic [ref=f6e97]: ·
+                    - generic [ref=f6e98]: 19 Sept 2026, 10:42
+            - listitem [ref=f6e99]:
+              - button "2" [ref=f6e101] [cursor=pointer]
+              - button "Iteration 2 ✓ verified this 7c02ea4419bb35fd prev a3f19c72be40d881 held-out 33% · FP 6% · 19 Sept 2026, 11:34" [ref=f6e102] [cursor=pointer]:
+                - generic [ref=f6e103]:
+                  - generic [ref=f6e104]:
+                    - generic [ref=f6e105]: Iteration 2
+                    - generic [ref=f6e106]: ✓ verified
+                  - generic [ref=f6e107]:
+                    - generic [ref=f6e108]:
+                      - term [ref=f6e109]: this
+                      - definition [ref=f6e110]: 7c02ea4419bb35fd
+                    - generic [ref=f6e111]:
+                      - term [ref=f6e112]: prev
+                      - definition [ref=f6e113]: a3f19c72be40d881
+                  - generic [ref=f6e114]:
+                    - generic [ref=f6e115]: held-out 33%
+                    - generic [ref=f6e116]: ·
+                    - generic [ref=f6e117]: FP 6%
+                    - generic [ref=f6e118]: ·
+                    - generic [ref=f6e119]: 19 Sept 2026, 11:34
+            - listitem [ref=f6e120]:
+              - button "3" [ref=f6e121] [cursor=pointer]
+              - button "Iteration 3 ✓ verified this e91d5806cc27af14 prev 7c02ea4419bb35fd held-out 22% · FP 4% · 19 Sept 2026, 13:01" [ref=f6e122] [cursor=pointer]:
+                - generic [ref=f6e123]:
+                  - generic [ref=f6e124]:
+                    - generic [ref=f6e125]: Iteration 3
+                    - generic [ref=f6e126]: ✓ verified
+                  - generic [ref=f6e127]:
+                    - generic [ref=f6e128]:
+                      - term [ref=f6e129]: this
+                      - definition [ref=f6e130]: e91d5806cc27af14
+                    - generic [ref=f6e131]:
+                      - term [ref=f6e132]: prev
+                      - definition [ref=f6e133]: 7c02ea4419bb35fd
+                  - generic [ref=f6e134]:
+                    - generic [ref=f6e135]: held-out 22%
+                    - generic [ref=f6e136]: ·
+                    - generic [ref=f6e137]: FP 4%
+                    - generic [ref=f6e138]: ·
+                    - generic [ref=f6e139]: 19 Sept 2026, 13:01
+          - paragraph [ref=f6e140]: "Each record's prev is the previous record's this. Removing iteration 1 — the run with a 50% held-out rate — would orphan everything after it, which is the point: the inconvenient result is the one the chain protects."
+      - generic [ref=f6e141]:
+        - generic [ref=f6e142]:
+          - generic [ref=f6e143]:
+            - heading "Assurance record" [level=2] [ref=f6e144]
+            - generic [ref=f6e145]: rec_03
+          - generic [ref=f6e146]:
+            - button "summary" [ref=f6e147] [cursor=pointer]
+            - button "raw" [ref=f6e148] [cursor=pointer]
+        - generic [ref=f6e149]:
+          - generic [ref=f6e150]:
+            - generic [ref=f6e151]: ✓ Ed25519 verified
+            - generic [ref=f6e152]: key 4c81aa93e7f10b26
+            - generic [ref=f6e153]: iteration 3
+          - generic [ref=f6e154]: "{ \"schema\": \"purplix.assurance/v1\", \"iteration\": 3, \"target\": { \"id\": \"tgt_sup\", \"name\": \"SISA Support Bot\", \"pillar\": \"model\", \"digest\": \"sha256:9f2a…c41d\" }, \"attack_pack\": { \"name\": \"purplix-model-core\", \"version\": \"1.0\", \"hash\": \"8e82201d664e7478\", \"source\": \"in-house\" }, \"policy_bundle\": { \"version\": 3, \"hash\": \"b39f4c21ae7730\", \"controls\": 6 }, \"results\": { \"asr_seeded\": 0, \"asr_holdout\": 0.22, \"fp_rate_benign\": 0.04, \"latency_delta_ms\": 178, \"converged\": false }, \"baseline\": { \"asr_seeded\": 0.83, \"asr_holdout\": 0.67 }, \"exit_criteria\": { \"maxAsrHoldout\": 0.2, \"maxFpRate\": 0.1, \"maxLatencyDeltaMs\": 400 }, \"signed_at\": \"2026-09-19T07:31:00Z\" }"
+          - paragraph [ref=f6e155]:
+            - text: "Verification checks two things, not one: that the signature is valid, and that the payload hashes to the value shown. A valid signature over a"
+            - emphasis [ref=f6e156]: different
+            - text: payload than the one on screen is the failure mode worth catching.
+  - contentinfo [ref=f6e157]:
+    - generic [ref=f6e158]:
+      - generic [ref=f6e159]: Purplix AI · Sprint 0 preview
+      - generic [ref=f6e160]: Attack corpus authored in-house · no benchmark payloads imported
+      - generic [ref=f6e161]: Records signed Ed25519 · key 4c81aa93e7f10b26

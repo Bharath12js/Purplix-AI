@@ -1,0 +1,41 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e356]:
+    - complementary [ref=f4e357]:
+      - generic [ref=f4e360]:
+        - generic [ref=f4e376]:
+          - generic [ref=f4e377]: Purplix AI
+          - generic [ref=f4e378]: Continuous assurance loop
+        - paragraph [ref=f4e379]: Continuous red, blue and purple teaming for models, agents and AI applications — where every number resolves down to the transcript that produced it.
+        - generic [ref=f4e380]:
+          - generic [ref=f4e381]:
+            - generic [ref=f4e383]: Red
+            - generic [ref=f4e384]: Attack
+          - generic [ref=f4e385]:
+            - generic [ref=f4e387]: Purple
+            - generic [ref=f4e388]: Assure
+          - generic [ref=f4e389]:
+            - generic [ref=f4e391]: Blue
+            - generic [ref=f4e392]: Defend
+      - generic [ref=f4e393]: Attack corpus authored in-house · records signed Ed25519
+    - main [ref=f4e394]:
+      - generic [ref=f4e395]:
+        - generic [ref=f4e396]:
+          - heading "Sign in" [level=1] [ref=f4e397]
+          - paragraph [ref=f4e398]: Use your SISA directory account.
+        - generic [ref=f4e399]:
+          - generic [ref=f4e400]:
+            - generic [ref=f4e401]: Work email
+            - textbox "Work email" [ref=f4e402]: sohan.k@sisainfosec.com
+          - generic [ref=f4e403]:
+            - generic [ref=f4e404]:
+              - generic [ref=f4e405]: Password
+              - button "Forgot?" [ref=f4e406] [cursor=pointer]
+            - textbox "Password" [ref=f4e407]: demo-preview
+          - generic [ref=f4e408] [cursor=pointer]:
+            - checkbox "Keep me signed in for 8 hours" [checked] [ref=f4e409]
+            - generic [ref=f4e410]: Keep me signed in for 8 hours
+          - button "Sign in" [ref=f4e411] [cursor=pointer]
+        - generic [ref=f4e412]: or
+        - button "Continue with SISA SSO" [ref=f4e416] [cursor=pointer]
+        - paragraph [ref=f4e427]: Preview build. Targets are tenant-scoped and require proof of ownership before any attack runs.
+  - generic [aria-hidden] [ref=f4e355]: 0%

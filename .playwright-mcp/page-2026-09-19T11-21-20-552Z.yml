@@ -1,0 +1,117 @@
+- generic [ref=f15e3]:
+  - complementary [ref=f15e4]:
+    - link "Purplix AI Continuous assurance loop" [ref=f15e7] [cursor=pointer]:
+      - /url: /dashboard
+      - generic [ref=f15e22]:
+        - generic [ref=f15e23]: Purplix AI
+        - generic [ref=f15e24]: Continuous assurance loop
+    - navigation [ref=f15e25]:
+      - generic [ref=f15e27]:
+        - link "Dashboard Estate posture" [ref=f15e28] [cursor=pointer]:
+          - /url: /dashboard
+          - generic [ref=f15e30]:
+            - generic [ref=f15e31]: Dashboard
+            - generic [ref=f15e32]: Estate posture
+        - link "Initiate loop Model · agent · app" [ref=f15e33] [cursor=pointer]:
+          - /url: /initiate
+          - generic [ref=f15e35]:
+            - generic [ref=f15e36]: Initiate loop
+            - generic [ref=f15e37]: Model · agent · app
+        - link "Live run Real op · streaming" [ref=f15e38] [cursor=pointer]:
+          - /url: /live
+          - generic [ref=f15e41]:
+            - generic [ref=f15e42]: Live run
+            - generic [ref=f15e43]: Real op · streaming
+      - generic [ref=f15e44]:
+        - generic [ref=f15e45]: Engines
+        - generic [ref=f15e46]:
+          - link "Red Offensive 4" [ref=f15e47] [cursor=pointer]:
+            - /url: /red
+            - generic [ref=f15e49]:
+              - generic [ref=f15e50]: Red
+              - generic [ref=f15e51]: Offensive
+            - generic [ref=f15e52]: "4"
+          - link "Blue Adaptive defence" [ref=f15e53] [cursor=pointer]:
+            - /url: /blue
+            - generic [ref=f15e55]:
+              - generic [ref=f15e56]: Blue
+              - generic [ref=f15e57]: Adaptive defence
+          - link "Purple Continuous assurance" [ref=f15e58] [cursor=pointer]:
+            - /url: /purple
+            - generic [ref=f15e60]:
+              - generic [ref=f15e61]: Purple
+              - generic [ref=f15e62]: Continuous assurance
+      - generic [ref=f15e63]:
+        - generic [ref=f15e64]: Assurance
+        - generic [ref=f15e65]:
+          - link "Evidence Signed records" [ref=f15e66] [cursor=pointer]:
+            - /url: /evidence
+            - generic [ref=f15e68]:
+              - generic [ref=f15e69]: Evidence
+              - generic [ref=f15e70]: Signed records
+          - link "Compliance Framework coverage" [ref=f15e71] [cursor=pointer]:
+            - /url: /compliance
+            - generic [ref=f15e73]:
+              - generic [ref=f15e74]: Compliance
+              - generic [ref=f15e75]: Framework coverage
+    - generic [ref=f15e76]:
+      - generic [ref=f15e77]: Estate
+      - generic [ref=f15e82]:
+        - generic [ref=f15e83]: 6 targets
+        - generic [ref=f15e84]: 4 protected
+      - generic [ref=f15e85]:
+        - generic [ref=f15e86]: engagement
+        - generic [ref=f15e87]: ENG-2026-0417
+    - generic [ref=f15e88]:
+      - generic [ref=f15e89]: SK
+      - generic [ref=f15e90]:
+        - generic [ref=f15e91]: Sohan K
+        - generic [ref=f15e92]: Owner · Purplix
+      - button "⏻" [ref=f15e93] [cursor=pointer]
+    - button "‹" [ref=f15e94] [cursor=pointer]
+  - generic [ref=f15e95]:
+    - main [ref=f15e96]:
+      - generic [ref=f15e97]:
+        - generic [ref=f15e99]:
+          - heading "Live run — watch an op execute" [level=1] [ref=f15e100]
+          - paragraph [ref=f15e101]: This page is not reading fixtures. It launches a real loop on the API and tails the exact events the engine emits, in order. Numbers here are produced live against the target.
+        - generic [ref=f15e103]:
+          - generic [ref=f15e104]: Target
+          - combobox [ref=f15e105]:
+            - option "— no targets —" [selected]
+          - button "Run live op" [disabled] [ref=f15e106]
+          - generic [ref=f15e107]: idle
+        - generic [ref=f15e108]:
+          - generic [ref=f15e109]:
+            - generic [ref=f15e111]:
+              - heading "Run stream" [level=2] [ref=f15e112]
+              - generic [ref=f15e113]: 0 attempts · append-only
+            - generic [ref=f15e114]: Pick a target and press Run. Every attempt and every metric will stream here as the engine produces it.
+          - generic [ref=f15e117]:
+            - generic [ref=f15e119]:
+              - heading "Live stats" [level=2] [ref=f15e120]
+              - generic [ref=f15e121]: updated as the stream lands
+            - generic [ref=f15e122]:
+              - generic [ref=f15e125]:
+                - generic [ref=f15e126]: Attempts
+                - generic [ref=f15e127]: "0"
+              - generic [ref=f15e131]:
+                - generic [ref=f15e132]: Findings
+                - generic [ref=f15e133]: "0"
+              - generic [ref=f15e137]:
+                - generic [ref=f15e138]: Blocked (challenge)
+                - generic [ref=f15e139]: "0"
+              - generic [ref=f15e143]:
+                - generic [ref=f15e144]: Residual breach
+                - generic [ref=f15e145]: "0"
+            - generic [ref=f15e147]:
+              - generic [ref=f15e149]:
+                - heading "Result" [level=2] [ref=f15e150]
+                - generic [ref=f15e151]: the four-metric titer
+              - paragraph [ref=f15e153]: The titer is written as a unit at the end of the pass — it will appear here once the challenge phase completes.
+    - contentinfo [ref=f15e154]:
+      - generic [ref=f15e155]:
+        - generic [ref=f15e156]: Purplix AI · preview
+        - generic [ref=f15e157]: Red · Blue (AEGIS) · Purple — one contract, one evidence trail
+        - generic [ref=f15e158]: Last campaign sealed 2 h ago
+        - generic [ref=f15e159]: key 4c81aa93e7f10b26

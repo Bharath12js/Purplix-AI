@@ -1,0 +1,394 @@
+- generic [ref=f5e3]:
+  - complementary [ref=f5e4]:
+    - link "Purplix AI Continuous assurance loop" [ref=f5e7] [cursor=pointer]:
+      - /url: /dashboard
+      - generic [ref=f5e22]:
+        - generic [ref=f5e23]: Purplix AI
+        - generic [ref=f5e24]: Continuous assurance loop
+    - navigation [ref=f5e25]:
+      - generic [ref=f5e27]:
+        - link "Dashboard Estate posture" [ref=f5e28] [cursor=pointer]:
+          - /url: /dashboard
+          - generic [ref=f5e30]:
+            - generic [ref=f5e31]: Dashboard
+            - generic [ref=f5e32]: Estate posture
+        - link "Initiate loop Model · agent · app" [ref=f5e33] [cursor=pointer]:
+          - /url: /initiate
+          - generic [ref=f5e35]:
+            - generic [ref=f5e36]: Initiate loop
+            - generic [ref=f5e37]: Model · agent · app
+      - generic [ref=f5e38]:
+        - generic [ref=f5e39]: Engines
+        - generic [ref=f5e40]:
+          - link "Red Offensive 4" [ref=f5e41] [cursor=pointer]:
+            - /url: /red
+            - generic [ref=f5e43]:
+              - generic [ref=f5e44]: Red
+              - generic [ref=f5e45]: Offensive
+            - generic [ref=f5e46]: "4"
+          - link "Blue Adaptive defence" [ref=f5e47] [cursor=pointer]:
+            - /url: /blue
+            - generic [ref=f5e50]:
+              - generic [ref=f5e51]: Blue
+              - generic [ref=f5e52]: Adaptive defence
+          - link "Purple Continuous assurance" [ref=f5e53] [cursor=pointer]:
+            - /url: /purple
+            - generic [ref=f5e55]:
+              - generic [ref=f5e56]: Purple
+              - generic [ref=f5e57]: Continuous assurance
+      - generic [ref=f5e58]:
+        - generic [ref=f5e59]: Assurance
+        - generic [ref=f5e60]:
+          - link "Evidence Signed records" [ref=f5e61] [cursor=pointer]:
+            - /url: /evidence
+            - generic [ref=f5e63]:
+              - generic [ref=f5e64]: Evidence
+              - generic [ref=f5e65]: Signed records
+          - link "Compliance Framework coverage" [ref=f5e66] [cursor=pointer]:
+            - /url: /compliance
+            - generic [ref=f5e68]:
+              - generic [ref=f5e69]: Compliance
+              - generic [ref=f5e70]: Framework coverage
+    - generic [ref=f5e71]:
+      - generic [ref=f5e72]: Estate
+      - generic [ref=f5e77]:
+        - generic [ref=f5e78]: 6 targets
+        - generic [ref=f5e79]: 4 protected
+      - generic [ref=f5e80]:
+        - generic [ref=f5e81]: engagement
+        - generic [ref=f5e82]: ENG-2026-0417
+    - generic [ref=f5e83]:
+      - generic [ref=f5e84]: SK
+      - generic [ref=f5e85]:
+        - generic [ref=f5e86]: Sohan K
+        - generic [ref=f5e87]: Owner · Purplix
+      - button "⏻" [ref=f5e88] [cursor=pointer]
+    - button "‹" [ref=f5e89] [cursor=pointer]
+  - generic [ref=f5e90]:
+    - main [ref=f5e91]:
+      - generic [ref=f5e92]:
+        - generic [ref=f5e94]:
+          - heading "Blue — adaptive defence" [level=1] [ref=f5e95]
+          - paragraph [ref=f5e96]: Compiled from what Red actually found, filled into reviewed templates, and only promoted once replaying the original probe shows the attack collapse. Versioned, diffable, reversible — never a fine-tune, because you cannot roll back weights.
+        - generic [ref=f5e97]:
+          - generic [ref=f5e98]:
+            - button "Models" [ref=f5e99] [cursor=pointer]
+            - button "Agents" [ref=f5e100] [cursor=pointer]
+            - button "Apps" [active] [ref=f5e101] [cursor=pointer]
+          - generic [ref=f5e102]:
+            - generic [ref=f5e103]:
+              - button "v1" [ref=f5e104] [cursor=pointer]
+              - button "v2" [ref=f5e105] [cursor=pointer]
+              - button "v3" [ref=f5e106] [cursor=pointer]
+            - button "Diff against v2" [ref=f5e107] [cursor=pointer]
+            - button "Roll back" [ref=f5e108] [cursor=pointer]
+        - generic [ref=f5e109]:
+          - generic [ref=f5e110]:
+            - generic [ref=f5e113]:
+              - generic [ref=f5e114]: Controls
+              - generic [ref=f5e115]: "5"
+            - generic [ref=f5e117]: 4 active · 1 not yet promoted
+          - generic [ref=f5e118]:
+            - generic [ref=f5e120]:
+              - generic [ref=f5e121]: Attacks blocked
+              - generic [ref=f5e122]: "40"
+            - generic [ref=f5e124]: in the challenge phase
+          - generic [ref=f5e125]:
+            - generic [ref=f5e127]:
+              - generic [ref=f5e128]: Benign blocked
+              - generic [ref=f5e129]: "1"
+            - generic [ref=f5e131]: false positives attributable to a control
+          - generic [ref=f5e132]:
+            - generic [ref=f5e135]:
+              - generic [ref=f5e136]: Evidence links
+              - generic [ref=f5e137]: "22"
+            - generic [ref=f5e139]: control → finding, none unlinked
+        - generic [ref=f5e140]:
+          - generic [ref=f5e141]: Bundle v3 deployed
+          - generic [ref=f5e142]: Every control below carries the findings it was compiled from, and every chip opens that finding's transcript. None of them is hand-written enforcement code — the LLM fills parameters inside a reviewed template and nothing else, which is what keeps a generated defence auditable rather than merely plausible.
+        - generic [ref=f5e143]:
+          - generic [ref=f5e144]:
+            - generic [ref=f5e145]:
+              - generic [ref=f5e147]:
+                - heading "Signal inbox" [level=2] [ref=f5e148]
+                - generic [ref=f5e149]: 12 consumed
+              - generic [ref=f5e150]:
+                - button "critical Secret disclosed via sql injection lfnd_01 purplix" [ref=f5e480] [cursor=pointer]:
+                  - generic [ref=f5e481]: critical
+                  - generic [ref=f5e482]:
+                    - generic [ref=f5e483]: Secret disclosed via sql injection
+                    - generic [ref=f5e484]:
+                      - generic [ref=f5e485]: lfnd_01
+                      - generic [ref=f5e486]: purplix
+                - button "high Secret disclosed via idor lfnd_02 purplix" [ref=f5e487] [cursor=pointer]:
+                  - generic [ref=f5e488]: high
+                  - generic [ref=f5e489]:
+                    - generic [ref=f5e490]: Secret disclosed via idor
+                    - generic [ref=f5e491]:
+                      - generic [ref=f5e492]: lfnd_02
+                      - generic [ref=f5e493]: purplix
+                - button "critical Secret disclosed via ssrf lfnd_03 purplix" [ref=f5e494] [cursor=pointer]:
+                  - generic [ref=f5e495]: critical
+                  - generic [ref=f5e496]:
+                    - generic [ref=f5e497]: Secret disclosed via ssrf
+                    - generic [ref=f5e498]:
+                      - generic [ref=f5e499]: lfnd_03
+                      - generic [ref=f5e500]: purplix
+                - button "critical Secret disclosed via command injection lfnd_04 purplix" [ref=f5e501] [cursor=pointer]:
+                  - generic [ref=f5e502]: critical
+                  - generic [ref=f5e503]:
+                    - generic [ref=f5e504]: Secret disclosed via command injection
+                    - generic [ref=f5e505]:
+                      - generic [ref=f5e506]: lfnd_04
+                      - generic [ref=f5e507]: purplix
+                - button "high Secret disclosed via mass assignment lfnd_05 purplix" [ref=f5e508] [cursor=pointer]:
+                  - generic [ref=f5e509]: high
+                  - generic [ref=f5e510]:
+                    - generic [ref=f5e511]: Secret disclosed via mass assignment
+                    - generic [ref=f5e512]:
+                      - generic [ref=f5e513]: lfnd_05
+                      - generic [ref=f5e514]: purplix
+                - button "high Secret disclosed via info disclosure lfnd_06 purplix" [ref=f5e515] [cursor=pointer]:
+                  - generic [ref=f5e516]: high
+                  - generic [ref=f5e517]:
+                    - generic [ref=f5e518]: Secret disclosed via info disclosure
+                    - generic [ref=f5e519]:
+                      - generic [ref=f5e520]: lfnd_06
+                      - generic [ref=f5e521]: purplix
+                - button "high Secret disclosed via prompt injection lfnd_07 purplix" [ref=f5e522] [cursor=pointer]:
+                  - generic [ref=f5e523]: high
+                  - generic [ref=f5e524]:
+                    - generic [ref=f5e525]: Secret disclosed via prompt injection
+                    - generic [ref=f5e526]:
+                      - generic [ref=f5e527]: lfnd_07
+                      - generic [ref=f5e528]: purplix
+                - button "high Secret disclosed via indirect injection lfnd_08 purplix" [ref=f5e529] [cursor=pointer]:
+                  - generic [ref=f5e530]: high
+                  - generic [ref=f5e531]:
+                    - generic [ref=f5e532]: Secret disclosed via indirect injection
+                    - generic [ref=f5e533]:
+                      - generic [ref=f5e534]: lfnd_08
+                      - generic [ref=f5e535]: purplix
+                - button "medium Secret disclosed via xss lfnd_09 purplix" [ref=f5e536] [cursor=pointer]:
+                  - generic [ref=f5e537]: medium
+                  - generic [ref=f5e538]:
+                    - generic [ref=f5e539]: Secret disclosed via xss
+                    - generic [ref=f5e540]:
+                      - generic [ref=f5e541]: lfnd_09
+                      - generic [ref=f5e542]: purplix
+                - button "high Retrieved chunk overrode system policy in a RAG answer fnd_14 pyrit" [ref=f5e543] [cursor=pointer]:
+                  - generic [ref=f5e544]: high
+                  - generic [ref=f5e545]:
+                    - generic [ref=f5e546]: Retrieved chunk overrode system policy in a RAG answer
+                    - generic [ref=f5e547]:
+                      - generic [ref=f5e548]: fnd_14
+                      - generic [ref=f5e549]: pyrit
+                - button "critical Retrieval returned another tenant’s policy document fnd_15 promptfoo" [ref=f5e550] [cursor=pointer]:
+                  - generic [ref=f5e551]: critical
+                  - generic [ref=f5e552]:
+                    - generic [ref=f5e553]: Retrieval returned another tenant’s policy document
+                    - generic [ref=f5e554]:
+                      - generic [ref=f5e555]: fnd_15
+                      - generic [ref=f5e556]: promptfoo
+                - 'button "medium Held-out: link-preview fetch reachable into the internal range fnd_16 precogly" [ref=f5e557] [cursor=pointer]':
+                  - generic [ref=f5e558]: medium
+                  - generic [ref=f5e559]:
+                    - generic [ref=f5e560]: "Held-out: link-preview fetch reachable into the internal range"
+                    - generic [ref=f5e561]:
+                      - generic [ref=f5e562]: fnd_16
+                      - generic [ref=f5e563]: precogly
+              - paragraph [ref=f5e193]: "Blue is adaptive: this inbox fills from Red while a run is still going, and the compiler reads it as a cluster by root cause rather than one symptom at a time."
+            - generic [ref=f5e194]:
+              - generic [ref=f5e196]:
+                - heading "Escalation ladder" [level=2] [ref=f5e197]
+                - generic [ref=f5e198]: LLM load
+              - generic [ref=f5e199]:
+                - generic "Canary fired, egress oracle tripped, config read. Proof, not inference." [ref=f5e200]:
+                  - generic [ref=f5e201]:
+                    - generic [ref=f5e202]: T0
+                    - generic [ref=f5e203]: Deterministic tool verdict
+                    - generic [ref=f5e204]: "142"
+                  - generic [ref=f5e207]: 0 tokens · auto-confirmed, no LLM
+                - generic "dedupe_key seen in an earlier pass; invalidated when the target digest changes." [ref=f5e208]:
+                  - generic [ref=f5e209]:
+                    - generic [ref=f5e210]: T1
+                    - generic [ref=f5e211]: Fingerprint cache
+                    - generic [ref=f5e212]: "47"
+                  - generic [ref=f5e215]: 0 tokens · verdict reused from the ledger
+                - generic "Two independent tools agreeing on one dedupe_key is corroboration, not duplication." [ref=f5e216]:
+                  - generic [ref=f5e217]:
+                    - generic [ref=f5e218]: T2
+                    - generic [ref=f5e219]: Rule-based correlation
+                    - generic [ref=f5e220]: "23"
+                  - generic [ref=f5e223]: 0 tokens · auto-confirmed or auto-suppressed
+                - generic "Prompt Guard-class FP/TP split on text-heavy findings." [ref=f5e224]:
+                  - generic [ref=f5e225]:
+                    - generic [ref=f5e226]: T3
+                    - generic [ref=f5e227]: Local classifier
+                    - generic [ref=f5e228]: "9"
+                  - generic [ref=f5e231]: 0 tokens · resolved on-box
+                - generic "Ambiguous residuals and parameter drafting only. It never closes a finding alone and never blocks traffic." [ref=f5e232]:
+                  - generic [ref=f5e233]:
+                    - generic [ref=f5e234]: T4
+                    - generic [ref=f5e235]: LLM reasoning
+                    - generic [ref=f5e236]: "14"
+                  - generic [ref=f5e239]: 186,400 tokens · proposed verdict + control parameters
+                - generic [ref=f5e240]:
+                  - generic [ref=f5e241]: Invocation rate
+                  - generic [ref=f5e242]:
+                    - text: 6.1%
+                    - generic [ref=f5e243]: / 8%
+              - paragraph [ref=f5e244]: Warm-ledger, pass 3. The cold first-pass rate was 19% — T1 cross-target reuse is near zero on first contact, and reporting the steady-state figure as the demo-time figure would be a lie of omission.
+            - generic [ref=f5e245]:
+              - heading "Enforcement layers" [level=2] [ref=f5e248]
+              - generic [ref=f5e249]:
+                - generic [ref=f5e250]:
+                  - generic [ref=f5e251]:
+                    - generic [ref=f5e252]: L1 · input
+                    - generic [ref=f5e253]: "3"
+                  - generic [ref=f5e254]: Input detection
+                  - paragraph [ref=f5e255]: Matches the structure of an attack before it reaches the target.
+                - generic [ref=f5e256]:
+                  - generic [ref=f5e257]:
+                    - generic [ref=f5e258]: L2 · output
+                    - generic [ref=f5e259]: "1"
+                  - generic [ref=f5e260]: Output gating
+                  - paragraph [ref=f5e261]: Terminal gate on what may leave, whatever the request looked like.
+                - generic [ref=f5e262]:
+                  - generic [ref=f5e263]:
+                    - generic [ref=f5e264]: L3 · config
+                    - generic [ref=f5e265]: "1"
+                  - generic [ref=f5e266]: Configuration hardening
+                  - paragraph [ref=f5e267]: Closes the class of attack rather than the instance — scope, policy, prompt.
+              - paragraph [ref=f5e268]: These are enforcement points, not target tiers. The AEGIS spec uses L1/L2/L3 for App/Model/Agent — the same three labels, a different axis — so the two are kept apart by name everywhere in this product.
+          - generic [ref=f5e269]:
+            - generic [ref=f5e270]:
+              - generic [ref=f5e271]:
+                - generic [ref=f5e272]:
+                  - heading "Policy bundle v3" [level=2] [ref=f5e273]
+                  - generic [ref=f5e274]: bundle b39f4c21ae7730
+                - generic [ref=f5e275]: deployed
+              - generic [ref=f5e276]:
+                - generic [ref=f5e277]:
+                  - generic [ref=f5e278]:
+                    - generic [ref=f5e279]: L1 · input
+                    - generic [ref=f5e280]: Input detection
+                    - generic [ref=f5e281]: 3 controls
+                  - generic [ref=f5e282]:
+                    - button "request_structure_block active Block the structural signatures of the confirmed request-side attacks without matching ordinary input. 9 blocked ›" [ref=f5e565] [cursor=pointer]:
+                      - generic [ref=f5e566]:
+                        - generic [ref=f5e567]:
+                          - generic [ref=f5e568]: request_structure_block
+                          - generic [ref=f5e569]: active
+                        - paragraph [ref=f5e570]: Block the structural signatures of the confirmed request-side attacks without matching ordinary input.
+                      - generic [ref=f5e571]:
+                        - generic [ref=f5e572]:
+                          - generic [ref=f5e573]: "9"
+                          - generic [ref=f5e574]: blocked
+                        - generic [ref=f5e575]: ›
+                    - button "retrieval_provenance_tags active 1 FP Retrieved chunks are spotlighted and provenance-tagged as untrusted content before they reach the context window. Structural, so it holds where a classifier threshold eventually will not. 16 blocked ›" [ref=f5e577] [cursor=pointer]:
+                      - generic [ref=f5e578]:
+                        - generic [ref=f5e579]:
+                          - generic [ref=f5e580]: retrieval_provenance_tags
+                          - generic [ref=f5e581]: active
+                          - generic [ref=f5e582]: 1 FP
+                        - paragraph [ref=f5e583]: Retrieved chunks are spotlighted and provenance-tagged as untrusted content before they reach the context window. Structural, so it holds where a classifier threshold eventually will not.
+                      - generic [ref=f5e584]:
+                        - generic [ref=f5e585]:
+                          - generic [ref=f5e586]: "16"
+                          - generic [ref=f5e587]: blocked
+                        - generic [ref=f5e588]: ›
+                    - button "waf_stopgap_ssrf expired Stop-the-bleeding half of a dual control while the durable fix lands. Route-scoped, CRS class only — and it expires automatically once the code fix verifies, so the ruleset does not accumulate rules nobody dares delete. 2 blocked ›" [ref=f5e590] [cursor=pointer]:
+                      - generic [ref=f5e591]:
+                        - generic [ref=f5e592]:
+                          - generic [ref=f5e593]: waf_stopgap_ssrf
+                          - generic [ref=f5e594]: expired
+                        - paragraph [ref=f5e595]: Stop-the-bleeding half of a dual control while the durable fix lands. Route-scoped, CRS class only — and it expires automatically once the code fix verifies, so the ruleset does not accumulate rules nobody dares delete.
+                      - generic [ref=f5e596]:
+                        - generic [ref=f5e597]:
+                          - generic [ref=f5e598]: "2"
+                          - generic [ref=f5e599]: blocked
+                        - generic [ref=f5e600]: ›
+                - generic [ref=f5e333]:
+                  - generic [ref=f5e334]:
+                    - generic [ref=f5e335]: L2 · output
+                    - generic [ref=f5e336]: Output gating
+                    - generic [ref=f5e337]: 1 controls
+                  - button "canary_and_secret_egress_gate active No legitimate response contains a planted canary or an internal secret; block any that tries to leave. 9 blocked ›" [ref=f5e602] [cursor=pointer]:
+                    - generic [ref=f5e603]:
+                      - generic [ref=f5e604]:
+                        - generic [ref=f5e605]: canary_and_secret_egress_gate
+                        - generic [ref=f5e606]: active
+                      - paragraph [ref=f5e607]: No legitimate response contains a planted canary or an internal secret; block any that tries to leave.
+                    - generic [ref=f5e608]:
+                      - generic [ref=f5e609]:
+                        - generic [ref=f5e610]: "9"
+                        - generic [ref=f5e611]: blocked
+                      - generic [ref=f5e612]: ›
+                - generic [ref=f5e407]:
+                  - generic [ref=f5e408]:
+                    - generic [ref=f5e409]: L3 · config
+                    - generic [ref=f5e410]: Configuration hardening
+                    - generic [ref=f5e411]: 1 controls
+                  - button "retrieval_tenancy_filter active Tenant predicate is pushed into the vector query rather than applied to the ranked result, so a neighbouring tenant’s chunk can never be a candidate. Deterministic — this one is held to literal zero residual, not a budget. 4 blocked ›" [ref=f5e614] [cursor=pointer]:
+                    - generic [ref=f5e615]:
+                      - generic [ref=f5e616]:
+                        - generic [ref=f5e617]: retrieval_tenancy_filter
+                        - generic [ref=f5e618]: active
+                      - paragraph [ref=f5e619]: Tenant predicate is pushed into the vector query rather than applied to the ranked result, so a neighbouring tenant’s chunk can never be a candidate. Deterministic — this one is held to literal zero residual, not a budget.
+                    - generic [ref=f5e620]:
+                      - generic [ref=f5e621]:
+                        - generic [ref=f5e622]: "4"
+                        - generic [ref=f5e623]: blocked
+                      - generic [ref=f5e624]: ›
+            - generic [ref=f5e425]:
+              - generic [ref=f5e427]:
+                - heading "Provenance" [level=2] [ref=f5e428]
+                - generic [ref=f5e429]: findings in, controls out, nothing dropped
+              - generic [ref=f5e430]:
+                - generic [ref=f5e431]:
+                  - generic [ref=f5e432]:
+                    - generic [ref=f5e433]: Findings ingested
+                    - generic [ref=f5e434]: "12"
+                  - generic [ref=f5e435]:
+                    - generic [ref=f5e436]: Compiled to controls
+                    - generic [ref=f5e437]: "12"
+                  - generic [ref=f5e438]:
+                    - generic [ref=f5e439]: Unreachable
+                    - generic [ref=f5e440]: "0"
+                  - generic [ref=f5e441]:
+                    - generic [ref=f5e442]: Orphan controls
+                    - generic [ref=f5e443]: "0"
+                - paragraph [ref=f5e444]: Every control above carries derived_from with at least one finding id, enforced by the schema, the service layer and a database constraint. Zero orphans is not an aspiration here — an orphan control cannot be stored.
+            - generic [ref=f5e445]:
+              - generic [ref=f5e447]:
+                - heading "Golden functional eval" [level=2] [ref=f5e448]
+                - generic [ref=f5e449]: the promotion gate
+              - generic [ref=f5e450]:
+                - generic [ref=f5e451]:
+                  - generic [ref=f5e452]:
+                    - generic [ref=f5e453]: Passing
+                    - generic [ref=f5e454]: 7/7
+                  - generic [ref=f5e455]:
+                    - generic [ref=f5e456]: Delta
+                    - generic [ref=f5e457]: "-0.6%"
+                  - generic [ref=f5e458]:
+                    - generic [ref=f5e459]: Budget
+                    - generic [ref=f5e460]: "-2%"
+                  - generic [ref=f5e461]: within budget · ran 2 h ago
+                - paragraph [ref=f5e462]: The "did we break the product" check. A control that raises ASR resistance while failing a golden case is not promoted, regardless of how good the ASR drop looks.
+            - generic [ref=f5e463]:
+              - generic [ref=f5e465]:
+                - heading "Chains touched" [level=2] [ref=f5e466]
+                - generic [ref=f5e467]: cheapest breaking hop
+              - generic [ref=f5e469]:
+                - generic [ref=f5e470]:
+                  - generic [ref=f5e471]: RAG poisoning → cross-tenant retrieval → policy disclosure
+                  - generic [ref=f5e472]: broken
+                - paragraph [ref=f5e473]: "Cut at the tenancy filter rather than the injection classifier: hop 2 is deterministic and can be driven to literal zero, where hop 1 is probabilistic and would leave a residual for the chain to walk through."
+    - contentinfo [ref=f5e474]:
+      - generic [ref=f5e475]:
+        - generic [ref=f5e476]: Purplix AI · preview
+        - generic [ref=f5e477]: Red · Blue (AEGIS) · Purple — one contract, one evidence trail
+        - generic [ref=f5e478]: Last campaign sealed 2 h ago
+        - generic [ref=f5e479]: key 4c81aa93e7f10b26

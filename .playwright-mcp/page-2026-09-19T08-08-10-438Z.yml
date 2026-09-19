@@ -1,0 +1,210 @@
+- generic [active] [ref=f5e1]:
+  - generic [ref=f5e3]:
+    - banner [ref=f5e4]:
+      - generic [ref=f5e6]:
+        - link "Purplix AI Continuous assurance loop" [ref=f5e7] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f5e17]:
+            - generic [ref=f5e18]: Purplix AI
+            - generic [ref=f5e19]: Continuous assurance loop
+        - navigation [ref=f5e20]:
+          - link "Dashboard" [ref=f5e21] [cursor=pointer]:
+            - /url: /
+          - link "Red" [ref=f5e23] [cursor=pointer]:
+            - /url: /red
+          - link "Blue" [ref=f5e24] [cursor=pointer]:
+            - /url: /blue
+          - link "Purple" [ref=f5e25] [cursor=pointer]:
+            - /url: /purple
+          - link "Evidence" [ref=f5e27] [cursor=pointer]:
+            - /url: /evidence
+          - link "Compliance" [ref=f5e28] [cursor=pointer]:
+            - /url: /compliance
+        - generic [ref=f5e29]:
+          - generic [ref=f5e30]: 5 targets · 3 protected
+          - generic [ref=f5e32]: SK
+    - main [ref=f5e33]:
+      - generic [ref=f5e35]:
+        - heading "Purple — continuous assurance" [level=1] [ref=f5e36]
+        - paragraph [ref=f5e37]: The loop controller. Held-out first, false positives always in shot, and nothing called converged until all three budgets hold.
+      - generic [ref=f5e38]:
+        - generic [ref=f5e39]:
+          - button "Models" [ref=f5e40] [cursor=pointer]
+          - button "AgentsSprint C" [ref=f5e41] [cursor=pointer]
+          - button "AppsSprint C" [ref=f5e42] [cursor=pointer]
+        - generic [ref=f5e43]:
+          - button "Schedule" [ref=f5e44] [cursor=pointer]
+          - button "Export record" [ref=f5e45] [cursor=pointer]
+          - button "Run next iteration" [ref=f5e46] [cursor=pointer]
+      - generic [ref=f5e47]:
+        - generic [ref=f5e48]:
+          - heading "Titer" [level=2] [ref=f5e49]
+          - generic [ref=f5e50]: these four are never shown apart
+        - generic [ref=f5e51]: iteration 3 of 3
+      - generic [ref=f5e52]:
+        - generic [ref=f5e53]:
+          - generic [ref=f5e55]: ASR seeded
+          - generic [ref=f5e56]:
+            - generic [ref=f5e57]: 0%
+            - generic [ref=f5e58]: 83%
+          - generic [ref=f5e59]: The set the compiler trained on — proves little alone
+        - generic [ref=f5e60]:
+          - generic [ref=f5e62]: ASR held-out
+          - generic [ref=f5e63]:
+            - generic [ref=f5e64]: 22%
+            - generic [ref=f5e65]: 67%
+          - generic [ref=f5e66]: Techniques the compiler never saw — the honest number
+          - generic [ref=f5e67]: budget ≤ 20%
+        - generic [ref=f5e68]:
+          - generic [ref=f5e70]: FP rate (benign)
+          - generic [ref=f5e71]: 4%
+          - generic [ref=f5e73]: What the defence costs real users
+          - generic [ref=f5e74]: budget ≤ 10%
+        - generic [ref=f5e75]:
+          - generic [ref=f5e77]: Added latency p95
+          - generic [ref=f5e78]: +178 ms
+          - generic [ref=f5e80]: What the defence costs the product
+          - generic [ref=f5e81]: budget ≤ 400 ms
+      - generic [ref=f5e82]:
+        - generic [ref=f5e83]:
+          - generic [ref=f5e84]: Not converged
+          - generic [ref=f5e85]: Convergence needs all three inside budget, sustained. Two are; the held-out rate is not.
+        - generic [ref=f5e86]:
+          - generic [ref=f5e87]:
+            - generic [ref=f5e88]:
+              - generic [ref=f5e89]: Held-out ASR
+              - generic [ref=f5e90]: over
+            - generic [ref=f5e91]:
+              - generic [ref=f5e92]: 22%
+              - generic [ref=f5e93]: / 20%
+          - generic [ref=f5e97]:
+            - generic [ref=f5e98]:
+              - generic [ref=f5e99]: FP rate
+              - generic [ref=f5e100]: pass
+            - generic [ref=f5e101]:
+              - generic [ref=f5e102]: 4%
+              - generic [ref=f5e103]: / 10%
+          - generic [ref=f5e107]:
+            - generic [ref=f5e108]:
+              - generic [ref=f5e109]: Latency delta
+              - generic [ref=f5e110]: pass
+            - generic [ref=f5e111]:
+              - generic [ref=f5e112]: +178 ms
+              - generic [ref=f5e113]: / 400 ms
+      - generic [ref=f5e117]:
+        - generic [ref=f5e118]:
+          - generic [ref=f5e119]:
+            - generic [ref=f5e121]:
+              - heading "Convergence" [level=2] [ref=f5e122]
+              - generic [ref=f5e123]: held-out vs false positives
+            - generic [ref=f5e124]:
+              - generic [ref=f5e126]:
+                - img [ref=f5e127]:
+                  - generic [ref=f5e131]:
+                    - generic [ref=f5e132]: Iter 1
+                    - generic [ref=f5e134]: Iter 2
+                    - generic [ref=f5e136]: Iter 3
+                  - generic [ref=f5e139]:
+                    - generic [ref=f5e140]: 0%
+                    - generic [ref=f5e142]: 20%
+                    - generic [ref=f5e144]: 40%
+                    - generic [ref=f5e146]: 70%
+                  - generic [ref=f5e148]: held-out budget
+                - list [ref=f5e155]:
+                  - listitem [ref=f5e156]: Held-out ASR
+                  - listitem [ref=f5e158]: FP rate
+              - paragraph [ref=f5e160]: Both lines falling together is the shape to want. A held-out line that falls while the FP line climbs means the defence is buying safety with usability, and the exit criteria will refuse to call that converged.
+          - generic [ref=f5e161]:
+            - generic [ref=f5e163]:
+              - heading "Iteration history" [level=2] [ref=f5e164]
+              - generic [ref=f5e165]: all iterations
+            - table [ref=f5e167]:
+              - rowgroup [ref=f5e168]:
+                - row [ref=f5e169]:
+                  - columnheader "Iter" [ref=f5e170]
+                  - columnheader "Findings" [ref=f5e171]
+                  - columnheader "Controls" [ref=f5e172]
+                  - columnheader "Seeded" [ref=f5e173]
+                  - columnheader "Held-out" [ref=f5e174]
+                  - columnheader "FP" [ref=f5e175]
+                  - columnheader "Latency" [ref=f5e176]
+                  - columnheader [ref=f5e177]
+              - rowgroup [ref=f5e178]:
+                - row [ref=f5e179] [cursor=pointer]:
+                  - cell "1" [ref=f5e180]
+                  - cell "6" [ref=f5e181]
+                  - cell "4" [ref=f5e182]
+                  - cell "17%" [ref=f5e183]
+                  - cell "50%" [ref=f5e184]
+                  - cell "13%" [ref=f5e185]
+                  - cell "+264 ms" [ref=f5e186]
+                  - cell "partial" [ref=f5e187]
+                - row [ref=f5e189] [cursor=pointer]:
+                  - cell "2" [ref=f5e190]
+                  - cell "2" [ref=f5e191]
+                  - cell "5" [ref=f5e192]
+                  - cell "8%" [ref=f5e193]
+                  - cell "33%" [ref=f5e194]
+                  - cell "6%" [ref=f5e195]
+                  - cell "+198 ms" [ref=f5e196]
+                  - cell "partial" [ref=f5e197]
+                - row [ref=f5e199] [cursor=pointer]:
+                  - cell "3" [ref=f5e200]
+                  - cell "1" [ref=f5e201]
+                  - cell "6" [ref=f5e202]
+                  - cell "0%" [ref=f5e203]
+                  - cell "22%" [ref=f5e204]
+                  - cell "4%" [ref=f5e205]
+                  - cell "+178 ms" [ref=f5e206]
+                  - cell "partial" [ref=f5e207]
+        - generic [ref=f5e209]:
+          - generic [ref=f5e210]:
+            - generic [ref=f5e212]:
+              - heading "Held-out split" [level=2] [ref=f5e213]
+              - generic [ref=f5e214]: disjoint by technique
+            - generic [ref=f5e215]:
+              - paragraph [ref=f5e216]:
+                - text: The held-out set uses techniques that appear
+                - strong [ref=f5e217]: nowhere
+                - text: in the seeded set. A random prompt-level split would leak near-duplicates across the boundary and quietly inflate this number — which is the easiest way for a product like this to lie to its own customers.
+              - generic [ref=f5e218]:
+                - generic [ref=f5e219]:
+                  - generic [ref=f5e221]: encoding_base64
+                  - generic [ref=f5e222]: OWASP LLM02
+                  - generic [ref=f5e223]: surviving
+                - generic [ref=f5e224]:
+                  - generic [ref=f5e226]: multilingual_pivot
+                  - generic [ref=f5e227]: OWASP LLM06
+                  - generic [ref=f5e228]: surviving
+                - generic [ref=f5e229]:
+                  - generic [ref=f5e231]: leetspeak_cipher
+                  - generic [ref=f5e232]: OWASP LLM01
+                  - generic [ref=f5e233]: caught
+              - paragraph [ref=f5e234]: Two of three held-out techniques are still getting through — encoding and the multilingual pivot. That is the 22% above, and it is what the next iteration is for.
+          - generic [ref=f5e235]:
+            - heading "Loop control" [level=2] [ref=f5e238]
+            - generic [ref=f5e239]:
+              - generic [ref=f5e240]:
+                - generic [ref=f5e241]: Trigger
+                - generic [ref=f5e242]: Manual · scheduled weekly
+              - generic [ref=f5e243]:
+                - generic [ref=f5e244]: On drift
+                - generic [ref=f5e245]: Re-run on target digest change
+              - generic [ref=f5e246]:
+                - generic [ref=f5e247]: On CI
+                - generic [ref=f5e248]: Webhook — block deploy on regression
+              - generic [ref=f5e249]:
+                - generic [ref=f5e250]: Sustained for
+                - generic [ref=f5e251]: 2 consecutive iterations
+            - paragraph [ref=f5e252]: The loop is the product, not the policy. A deployed policy an adaptive attacker can read is only as good as the date it was compiled — continuous re-immunisation is what keeps it honest.
+          - generic [ref=f5e253]:
+            - generic [ref=f5e254]: Evidence
+            - paragraph [ref=f5e255]: Iteration 3 produced a signed, hash-chained assurance record tying these numbers to a target digest, a pack hash and a policy hash.
+            - link "Open evidence vault" [ref=f5e256] [cursor=pointer]:
+              - /url: /evidence
+    - contentinfo [ref=f5e257]:
+      - generic [ref=f5e258]:
+        - generic [ref=f5e259]: Purplix AI · Sprint 0 preview
+        - generic [ref=f5e260]: Attack corpus authored in-house · no benchmark payloads imported
+        - generic [ref=f5e261]: Records signed Ed25519 · key 4c81aa93e7f10b26
+  - generic [aria-hidden] [ref=f5e262]: "0"

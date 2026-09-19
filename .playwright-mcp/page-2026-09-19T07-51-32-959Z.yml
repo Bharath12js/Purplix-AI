@@ -1,0 +1,31 @@
+- generic [ref=f1e3]:
+  - banner [ref=f1e4]:
+    - generic [ref=f1e5]:
+      - generic [ref=f1e6]:
+        - generic [ref=f1e7]: P
+        - generic [ref=f1e8]:
+          - generic [ref=f1e9]: Purplix AI
+          - generic [ref=f1e10]: Continuous purple teaming
+      - navigation [ref=f1e11]:
+        - link "Dashboard" [ref=f1e12] [cursor=pointer]:
+          - /url: /
+        - link "Red" [ref=f1e13] [cursor=pointer]:
+          - /url: /red
+        - link "Blue" [ref=f1e14] [cursor=pointer]:
+          - /url: /blue
+        - link "Purple" [ref=f1e15] [cursor=pointer]:
+          - /url: /purple
+      - generic [ref=f1e16]: API offline
+  - main [ref=f1e18]:
+    - generic [ref=f1e19]:
+      - heading "Purple — continuous assurance" [level=1] [ref=f1e20]
+      - paragraph [ref=f1e21]: The loop controller. Held-out first, false positives always in shot.
+    - generic [ref=f1e22]:
+      - button "models" [ref=f1e23] [cursor=pointer]
+      - button "agentssoon" [ref=f1e24] [cursor=pointer]
+      - button "appssoon" [ref=f1e25] [cursor=pointer]
+    - generic [ref=f1e26]:
+      - generic [ref=f1e27]: ◇
+      - generic [ref=f1e28]:
+        - generic [ref=f1e29]: No completed iteration yet
+        - generic [ref=f1e30]: Purple reports the titer — four metrics that are only meaningful together. Run an exposure in Red to produce one.

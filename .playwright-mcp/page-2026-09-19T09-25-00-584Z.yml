@@ -1,0 +1,223 @@
+- generic [ref=f10e3]:
+  - complementary [ref=f10e4]:
+    - link "Purplix AI Continuous assurance loop" [ref=f10e7] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f10e22]:
+        - generic [ref=f10e23]: Purplix AI
+        - generic [ref=f10e24]: Continuous assurance loop
+    - navigation [ref=f10e25]:
+      - link "Dashboard Estate posture" [ref=f10e28] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f10e30]:
+          - generic [ref=f10e31]: Dashboard
+          - generic [ref=f10e32]: Estate posture
+      - generic [ref=f10e33]:
+        - generic [ref=f10e34]: Engines
+        - generic [ref=f10e35]:
+          - link "Red Offensive 4" [ref=f10e36] [cursor=pointer]:
+            - /url: /red
+            - generic [ref=f10e39]:
+              - generic [ref=f10e40]: Red
+              - generic [ref=f10e41]: Offensive
+            - generic [ref=f10e42]: "4"
+          - link "Blue Adaptive defence" [ref=f10e43] [cursor=pointer]:
+            - /url: /blue
+            - generic [ref=f10e45]:
+              - generic [ref=f10e46]: Blue
+              - generic [ref=f10e47]: Adaptive defence
+          - link "Purple Continuous assurance" [ref=f10e48] [cursor=pointer]:
+            - /url: /purple
+            - generic [ref=f10e50]:
+              - generic [ref=f10e51]: Purple
+              - generic [ref=f10e52]: Continuous assurance
+      - generic [ref=f10e53]:
+        - generic [ref=f10e54]: Assurance
+        - generic [ref=f10e55]:
+          - link "Evidence Signed records" [ref=f10e56] [cursor=pointer]:
+            - /url: /evidence
+            - generic [ref=f10e58]:
+              - generic [ref=f10e59]: Evidence
+              - generic [ref=f10e60]: Signed records
+          - link "Compliance Framework coverage" [ref=f10e61] [cursor=pointer]:
+            - /url: /compliance
+            - generic [ref=f10e63]:
+              - generic [ref=f10e64]: Compliance
+              - generic [ref=f10e65]: Framework coverage
+    - generic [ref=f10e66]:
+      - generic [ref=f10e67]: Estate
+      - generic [ref=f10e72]:
+        - generic [ref=f10e73]: 5 targets
+        - generic [ref=f10e74]: 3 protected
+      - generic [ref=f10e75]:
+        - generic [ref=f10e76]: engagement
+        - generic [ref=f10e77]: ENG-2026-0417
+    - generic [ref=f10e78]:
+      - generic [ref=f10e79]: SK
+      - generic [ref=f10e80]:
+        - generic [ref=f10e81]: Sohan K
+        - generic [ref=f10e82]: Owner · SISA
+      - button "⏻" [ref=f10e83] [cursor=pointer]
+    - button "‹" [ref=f10e84] [cursor=pointer]
+  - generic [ref=f10e85]:
+    - main [ref=f10e86]:
+      - generic [ref=f10e87]:
+        - generic [ref=f10e89]:
+          - heading "Red — offensive" [level=1] [ref=f10e90]
+          - paragraph [ref=f10e91]: Nine wrapped adapters plus the in-house runner, ordered cheap to expensive, every result normalised into one schema. Launch a battery, watch it land, open the evidence behind every hit.
+        - generic [ref=f10e92]:
+          - generic [ref=f10e93]:
+            - button "Models" [ref=f10e94] [cursor=pointer]
+            - button "Agents" [ref=f10e95] [cursor=pointer]
+            - button "Apps" [ref=f10e96] [cursor=pointer]
+          - generic [ref=f10e97]:
+            - generic [ref=f10e432]: 0/8 attempts
+            - button "Running…" [disabled] [ref=f10e434]
+        - generic [ref=f10e99]:
+          - generic [ref=f10e100]:
+            - generic [ref=f10e101]: Target
+            - combobox "Target" [disabled] [ref=f10e102]:
+              - option "KYC Document Agent — Internal · tool-calling" [selected]
+          - generic [ref=f10e103]:
+            - generic [ref=f10e104]: Authorization
+            - generic [ref=f10e105]:
+              - generic [ref=f10e106]: ENG-2026-0417
+              - generic [ref=f10e107]: scope locked
+          - generic [ref=f10e108]:
+            - generic [ref=f10e345]: precogly
+            - generic [ref=f10e346]: hackagent
+            - generic [ref=f10e347]: agentharm
+            - generic [ref=f10e348]: injecagent
+            - generic [ref=f10e349]: agentdojo
+            - generic [ref=f10e113]: purplix
+        - generic [ref=f10e435]:
+          - generic [ref=f10e436]:
+            - generic [ref=f10e439]:
+              - generic [ref=f10e440]: Attempts
+              - generic [ref=f10e441]: "0"
+            - generic [ref=f10e443]: of 8 in this battery
+          - generic [ref=f10e444]:
+            - generic [ref=f10e446]:
+              - generic [ref=f10e447]: Breaches
+              - generic [ref=f10e448]: "0"
+            - generic [ref=f10e450]: attacks that achieved their objective
+          - generic [ref=f10e451]:
+            - generic [ref=f10e453]:
+              - generic [ref=f10e454]: Findings
+              - generic [ref=f10e455]: "0"
+            - generic [ref=f10e457]: each carries its transcript
+          - generic [ref=f10e458]:
+            - generic [ref=f10e461]:
+              - generic [ref=f10e462]: Risk score
+              - generic [ref=f10e463]: "35.2"
+            - generic [ref=f10e465]: severity-weighted · capped at 20 by any critical
+        - generic [ref=f10e114]:
+          - generic [ref=f10e115]:
+            - generic [ref=f10e116]:
+              - generic [ref=f10e118]:
+                - heading "Run stream" [level=2] [ref=f10e119]
+                - generic [ref=f10e120]: streaming
+              - generic [ref=f10e122]:
+                - generic [ref=f10e466]:
+                  - generic [ref=f10e467]: authorize
+                  - generic [ref=f10e468]: Engagement ENG-2026-0417 verified — scope allowlist locked
+                - generic [ref=f10e469]:
+                  - generic [ref=f10e470]: pin
+                  - generic [ref=f10e471]: Target pinned · digest sha256:1b77…8e02
+                - generic [ref=f10e472]:
+                  - generic [ref=f10e473]: threat-model
+                  - generic [ref=f10e474]: Precogly threat model loaded — applicable OWASP ids extracted
+                - generic [ref=f10e475]:
+                  - generic [ref=f10e476]: hackagent
+                  - generic [ref=f10e477]: Stage 1 · async subprocess / library
+            - generic [ref=f10e127]:
+              - generic [ref=f10e129]:
+                - heading "Adapter run log" [level=2] [ref=f10e130]
+                - generic [ref=f10e131]: failure-isolated
+              - generic [ref=f10e132]:
+                - generic [ref=f10e133]:
+                  - generic [ref=f10e135]:
+                    - generic [ref=f10e136]:
+                      - generic [ref=f10e137]: precogly
+                      - generic [ref=f10e138]: 30.0s
+                      - generic [ref=f10e139]: 2 h ago
+                    - paragraph [ref=f10e350]: threat-model call timed out — tool_use_detected defaulted to false, branch taken conservatively
+                  - generic [ref=f10e140]: "0"
+                - generic [ref=f10e141]:
+                  - generic [ref=f10e144]:
+                    - generic [ref=f10e145]: hackagent
+                    - generic [ref=f10e146]: 71.6s
+                    - generic [ref=f10e147]: 2 h ago
+                  - generic [ref=f10e148]: "1"
+                - generic [ref=f10e149]:
+                  - generic [ref=f10e152]:
+                    - generic [ref=f10e153]: agentharm
+                    - generic [ref=f10e154]: 52.4s
+                    - generic [ref=f10e155]: 2 h ago
+                  - generic [ref=f10e156]: "1"
+                - generic [ref=f10e157]:
+                  - generic [ref=f10e160]:
+                    - generic [ref=f10e161]: injecagent
+                    - generic [ref=f10e162]: 49.8s
+                    - generic [ref=f10e163]: 2 h ago
+                  - generic [ref=f10e164]: "1"
+                - generic [ref=f10e165]:
+                  - generic [ref=f10e168]:
+                    - generic [ref=f10e169]: agentdojo
+                    - generic [ref=f10e170]: 47.2s
+                    - generic [ref=f10e171]: 2 h ago
+                  - generic [ref=f10e172]: "1"
+              - paragraph [ref=f10e173]: One adapter dying does not end the op — it writes an error line and the pipeline continues with a documented fallback. That is why a missing tool has to appear here as a red line rather than as a clean zero in the results.
+          - generic [ref=f10e174]:
+            - generic [ref=f10e175]:
+              - generic [ref=f10e176]:
+                - generic [ref=f10e177]:
+                  - heading "Findings" [level=2] [ref=f10e178]
+                  - generic [ref=f10e179]: rows open the transcript
+                - generic [ref=f10e180]:
+                  - button "all" [ref=f10e181] [cursor=pointer]
+                  - button "critical" [ref=f10e182] [cursor=pointer]
+                  - button "unseen" [ref=f10e183] [cursor=pointer]
+              - generic [ref=f10e479]:
+                - generic [ref=f10e480]: ⌕
+                - generic [ref=f10e481]:
+                  - generic [ref=f10e482]: Nothing matches this filter
+                  - paragraph [ref=f10e483]: A finding is one successful attack. It never appears without the transcript that produced it — that link is the product.
+            - generic [ref=f10e297]:
+              - generic [ref=f10e299]:
+                - heading "Coverage" [level=2] [ref=f10e300]
+                - generic [ref=f10e301]: cases run vs corpus manifest
+              - generic [ref=f10e302]:
+                - table [ref=f10e304]:
+                  - rowgroup [ref=f10e305]:
+                    - row [ref=f10e306]:
+                      - columnheader "Category" [ref=f10e307]
+                      - columnheader "Score" [ref=f10e308]
+                      - columnheader "Run" [ref=f10e309]
+                      - columnheader "Corpus" [ref=f10e310]
+                  - rowgroup [ref=f10e311]:
+                    - row [ref=f10e423]:
+                      - cell "LLM01 Prompt injection" [ref=f10e313]:
+                        - generic [ref=f10e314]:
+                          - generic [ref=f10e315]: LLM01
+                          - generic [ref=f10e316]: Prompt injection
+                      - cell "42.0" [ref=f10e424]
+                      - cell "40" [ref=f10e425]
+                      - cell "1,683" [ref=f10e426]
+                    - row [ref=f10e427]:
+                      - cell "LLM06 Excessive agency" [ref=f10e330]:
+                        - generic [ref=f10e331]:
+                          - generic [ref=f10e332]: LLM06
+                          - generic [ref=f10e333]: Excessive agency
+                      - cell "20.0capped" [ref=f10e428]
+                      - cell "18" [ref=f10e430]
+                      - cell "55" [ref=f10e431]
+                - paragraph [ref=f10e337]:
+                  - text: Run and corpus are allowed to diverge, and usually do — that gap
+                  - emphasis [ref=f10e338]: is
+                  - text: the coverage statement. A score whose denominator equals its own numerator always reads as full coverage, which is exactly how "we tested LLM01" comes to mean nothing. A confirmed critical caps its category at 20 so it cannot be averaged away.
+    - contentinfo [ref=f10e339]:
+      - generic [ref=f10e340]:
+        - generic [ref=f10e341]: Purplix AI · preview
+        - generic [ref=f10e342]: Red · Blue (AEGIS) · Purple — one contract, one evidence trail
+        - generic [ref=f10e343]: Last campaign sealed 2 h ago
+        - generic [ref=f10e344]: key 4c81aa93e7f10b26

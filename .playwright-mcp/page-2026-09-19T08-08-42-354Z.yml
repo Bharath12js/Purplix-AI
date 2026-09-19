@@ -1,0 +1,215 @@
+- generic [ref=f7e3]:
+  - banner [ref=f7e4]:
+    - generic [ref=f7e6]:
+      - link "Purplix AI Continuous assurance loop" [ref=f7e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f7e17]:
+          - generic [ref=f7e18]: Purplix AI
+          - generic [ref=f7e19]: Continuous assurance loop
+      - navigation [ref=f7e20]:
+        - link "Dashboard" [ref=f7e21] [cursor=pointer]:
+          - /url: /
+        - link "Red" [ref=f7e23] [cursor=pointer]:
+          - /url: /red
+        - link "Blue" [ref=f7e24] [cursor=pointer]:
+          - /url: /blue
+        - link "Purple" [ref=f7e25] [cursor=pointer]:
+          - /url: /purple
+        - link "Evidence" [ref=f7e27] [cursor=pointer]:
+          - /url: /evidence
+        - link "Compliance" [ref=f7e28] [cursor=pointer]:
+          - /url: /compliance
+      - generic [ref=f7e29]:
+        - generic [ref=f7e30]: 5 targets · 3 protected
+        - generic [ref=f7e32]: SK
+  - main [ref=f7e33]:
+    - generic [ref=f7e34]:
+      - generic [ref=f7e35]:
+        - heading "Framework coverage" [level=1] [ref=f7e36]
+        - paragraph [ref=f7e37]: Mapped from loop results, not from a questionnaire. Every covered row points at a signed assurance record you can open and verify.
+      - generic [ref=f7e38]:
+        - button "Export gap analysis" [ref=f7e39] [cursor=pointer]
+        - button "Generate board pack" [ref=f7e40] [cursor=pointer]
+    - generic [ref=f7e41]:
+      - generic [ref=f7e42]:
+        - generic [ref=f7e44]: Controls mapped
+        - generic [ref=f7e45]: "10"
+        - generic [ref=f7e47]: across three frameworks
+      - generic [ref=f7e48]:
+        - generic [ref=f7e49]: Covered
+        - generic [ref=f7e50]: "5"
+        - generic [ref=f7e52]: backed by signed evidence
+      - generic [ref=f7e53]:
+        - generic [ref=f7e54]: Partial
+        - generic [ref=f7e55]: "3"
+        - generic [ref=f7e57]: evidence exists, process incomplete
+      - generic [ref=f7e58]:
+        - generic [ref=f7e60]: Gaps
+        - generic [ref=f7e61]: "2"
+        - generic [ref=f7e63]: needs evidence from outside the loop
+    - generic [ref=f7e65]:
+      - heading "Frameworks" [level=2] [ref=f7e66]
+      - generic [ref=f7e67]: coverage by framework
+    - generic [ref=f7e68]:
+      - generic [ref=f7e69]:
+        - generic [ref=f7e70]:
+          - generic [ref=f7e71]:
+            - generic [ref=f7e72]: EU AI Act
+            - generic [ref=f7e73]: 4 controls in scope
+          - generic [ref=f7e74]: 50%
+        - generic [ref=f7e79]:
+          - generic [ref=f7e80]:
+            - generic [ref=f7e82]: "2"
+            - text: covered
+          - generic [ref=f7e83]:
+            - generic [ref=f7e85]: "1"
+            - text: partial
+          - generic [ref=f7e86]:
+            - generic [ref=f7e88]: "1"
+            - text: gap
+      - generic [ref=f7e89]:
+        - generic [ref=f7e90]:
+          - generic [ref=f7e91]:
+            - generic [ref=f7e92]: NIST AI RMF
+            - generic [ref=f7e93]: 3 controls in scope
+          - generic [ref=f7e94]: 67%
+        - generic [ref=f7e98]:
+          - generic [ref=f7e99]:
+            - generic [ref=f7e101]: "2"
+            - text: covered
+          - generic [ref=f7e102]:
+            - generic [ref=f7e104]: "1"
+            - text: partial
+          - generic [ref=f7e105]:
+            - generic [ref=f7e107]: "0"
+            - text: gap
+      - generic [ref=f7e108]:
+        - generic [ref=f7e109]:
+          - generic [ref=f7e110]:
+            - generic [ref=f7e111]: ISO 42001
+            - generic [ref=f7e112]: 3 controls in scope
+          - generic [ref=f7e113]: 33%
+        - generic [ref=f7e118]:
+          - generic [ref=f7e119]:
+            - generic [ref=f7e121]: "1"
+            - text: covered
+          - generic [ref=f7e122]:
+            - generic [ref=f7e124]: "1"
+            - text: partial
+          - generic [ref=f7e125]:
+            - generic [ref=f7e127]: "1"
+            - text: gap
+    - generic [ref=f7e128]:
+      - generic [ref=f7e129]:
+        - button "All frameworks" [ref=f7e130] [cursor=pointer]
+        - button "EU AI Act" [ref=f7e131] [cursor=pointer]
+        - button "NIST AI RMF" [ref=f7e132] [cursor=pointer]
+        - button "ISO 42001" [ref=f7e133] [cursor=pointer]
+      - generic [ref=f7e134]: 10 controls shown
+    - table [ref=f7e136]:
+      - rowgroup [ref=f7e137]:
+        - row [ref=f7e138]:
+          - columnheader "Framework" [ref=f7e139]
+          - columnheader "Ref" [ref=f7e140]
+          - columnheader "Control" [ref=f7e141]
+          - columnheader "Status" [ref=f7e142]
+          - columnheader "Evidence" [ref=f7e143]
+      - rowgroup [ref=f7e144]:
+        - row [ref=f7e145] [cursor=pointer]:
+          - cell "EU AI Act" [ref=f7e146]
+          - cell "Art. 15" [ref=f7e148]
+          - cell "Accuracy, robustness and cybersecurity" [ref=f7e149]
+          - cell "covered" [ref=f7e150]
+          - cell [ref=f7e152]:
+            - generic [ref=f7e153]:
+              - link "iter 3 ↗" [ref=f7e154]:
+                - /url: /evidence
+              - link "iter 2 ↗" [ref=f7e155]:
+                - /url: /evidence
+        - row [ref=f7e156] [cursor=pointer]:
+          - cell "EU AI Act" [ref=f7e157]
+          - cell "Art. 9" [ref=f7e159]
+          - cell "Risk management system" [ref=f7e160]
+          - cell "partial" [ref=f7e161]
+          - cell [ref=f7e163]:
+            - link "iter 3 ↗" [ref=f7e165]:
+              - /url: /evidence
+        - row [ref=f7e166] [cursor=pointer]:
+          - cell "EU AI Act" [ref=f7e167]
+          - cell "Art. 12" [ref=f7e169]
+          - cell "Record-keeping and logging" [ref=f7e170]
+          - cell "covered" [ref=f7e171]
+          - cell [ref=f7e173]:
+            - generic [ref=f7e174]:
+              - link "iter 1 ↗" [ref=f7e175]:
+                - /url: /evidence
+              - link "iter 2 ↗" [ref=f7e176]:
+                - /url: /evidence
+              - link "iter 3 ↗" [ref=f7e177]:
+                - /url: /evidence
+        - row [ref=f7e178] [cursor=pointer]:
+          - cell "EU AI Act" [ref=f7e179]
+          - cell "Art. 14" [ref=f7e181]
+          - cell "Human oversight" [ref=f7e182]
+          - cell "gap" [ref=f7e183]
+          - cell "none" [ref=f7e185]
+        - row [ref=f7e186] [cursor=pointer]:
+          - cell "NIST AI RMF" [ref=f7e187]
+          - cell "MEASURE 2.7" [ref=f7e189]
+          - cell "Security and resilience evaluated" [ref=f7e190]
+          - cell "covered" [ref=f7e191]
+          - cell [ref=f7e193]:
+            - link "iter 3 ↗" [ref=f7e195]:
+              - /url: /evidence
+        - row [ref=f7e196] [cursor=pointer]:
+          - cell "NIST AI RMF" [ref=f7e197]
+          - cell "MANAGE 2.2" [ref=f7e199]
+          - cell "Mechanisms to sustain AI system value" [ref=f7e200]
+          - cell "covered" [ref=f7e201]
+          - cell [ref=f7e203]:
+            - generic [ref=f7e204]:
+              - link "iter 2 ↗" [ref=f7e205]:
+                - /url: /evidence
+              - link "iter 3 ↗" [ref=f7e206]:
+                - /url: /evidence
+        - row [ref=f7e207] [cursor=pointer]:
+          - cell "NIST AI RMF" [ref=f7e208]
+          - cell "GOVERN 1.5" [ref=f7e210]
+          - cell "Ongoing monitoring and periodic review" [ref=f7e211]
+          - cell "partial" [ref=f7e212]
+          - cell [ref=f7e214]:
+            - link "iter 3 ↗" [ref=f7e216]:
+              - /url: /evidence
+        - row [ref=f7e217] [cursor=pointer]:
+          - cell "ISO 42001" [ref=f7e218]
+          - cell "A.6.2.4" [ref=f7e220]
+          - cell "AI system verification and validation" [ref=f7e221]
+          - cell "covered" [ref=f7e222]
+          - cell [ref=f7e224]:
+            - generic [ref=f7e225]:
+              - link "iter 1 ↗" [ref=f7e226]:
+                - /url: /evidence
+              - link "iter 3 ↗" [ref=f7e227]:
+                - /url: /evidence
+        - row [ref=f7e228] [cursor=pointer]:
+          - cell "ISO 42001" [ref=f7e229]
+          - cell "A.8.3" [ref=f7e231]
+          - cell "Incident and vulnerability handling" [ref=f7e232]
+          - cell "partial" [ref=f7e233]
+          - cell [ref=f7e235]:
+            - link "iter 3 ↗" [ref=f7e237]:
+              - /url: /evidence
+        - row [ref=f7e238] [cursor=pointer]:
+          - cell "ISO 42001" [ref=f7e239]
+          - cell "A.5.4" [ref=f7e241]
+          - cell "AI impact assessment" [ref=f7e242]
+          - cell "gap" [ref=f7e243]
+          - cell "none" [ref=f7e245]
+    - generic [ref=f7e246]:
+      - generic [ref=f7e247]: What this page does not claim
+      - paragraph [ref=f7e248]: "Coverage here means the platform produces evidence an assessor would accept for that control — not that your organisation is compliant. Two rows are marked as gaps precisely because the loop cannot produce their evidence: human oversight and AI impact assessment are process obligations that live outside any testing tool. A vendor telling you those are green is telling you something false."
+  - contentinfo [ref=f7e249]:
+    - generic [ref=f7e250]:
+      - generic [ref=f7e251]: Purplix AI · Sprint 0 preview
+      - generic [ref=f7e252]: Attack corpus authored in-house · no benchmark payloads imported
+      - generic [ref=f7e253]: Records signed Ed25519 · key 4c81aa93e7f10b26

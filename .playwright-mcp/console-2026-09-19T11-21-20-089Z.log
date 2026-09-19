@@ -1,0 +1,34 @@
+[     270ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804
+[ 1135059ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135060ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135061ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135062ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135063ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135064ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135064ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135065ms] [ERROR] [vite] Failed to reload /src/views/Landing.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135066ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135066ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135067ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135067ms] [ERROR] [vite] Failed to reload /src/views/Initiate.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135068ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135068ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135068ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135069ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135069ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135070ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135070ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135071ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298
+[ 1135071ms] [ERROR] [vite] ReferenceError: Cannot access 'ENGAGEMENT' before initialization
+    at http://localhost:5173/src/data/live.ts?t=1789818014456:21:17 @ http://localhost:5173/@vite/client:298
+[ 1135071ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:298

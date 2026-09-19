@@ -1,0 +1,428 @@
+[     185ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804
+[  130170ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810151792:233:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8678:181) @ http://localhost:5199/@vite/client:298
+[  130171ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810151792:233:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8678:181) @ http://localhost:5199/@vite/client:298
+[  130174ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810151792:233:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  130174ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810151792:233:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  130179ms] [ERROR] %o
+
+%s
+
+%s
+ ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810151792:233:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, RenderErrorBoundary. @ http://localhost:5199/@vite/client:298
+[  130180ms] [ERROR] React Router caught the following error during render ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810151792:233:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  138732ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810160503:248:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8678:181) @ http://localhost:5199/@vite/client:298
+[  138732ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810160503:248:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8678:181) @ http://localhost:5199/@vite/client:298
+[  138747ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810160503:248:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  138748ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810160503:248:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  138749ms] [ERROR] %o
+
+%s
+
+%s
+ ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810160503:248:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, RenderErrorBoundary. @ http://localhost:5199/@vite/client:298
+[  138750ms] [ERROR] React Router caught the following error during render ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810160503:248:42)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  157388ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810179133:1040:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8678:181) @ http://localhost:5199/@vite/client:298
+[  157389ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810179133:1040:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8678:181) @ http://localhost:5199/@vite/client:298
+[  157406ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810179133:1040:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  157407ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810179133:1040:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  157408ms] [ERROR] %o
+
+%s
+
+%s
+ ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810179133:1040:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, RenderErrorBoundary. @ http://localhost:5199/@vite/client:298
+[  157409ms] [ERROR] React Router caught the following error during render ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810179133:1040:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  165386ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810187160:1032:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8678:181) @ http://localhost:5199/@vite/client:298
+[  165387ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810187160:1032:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8678:181) @ http://localhost:5199/@vite/client:298
+[  165403ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810187160:1032:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  165404ms] [ERROR] Error handled by React Router default ErrorBoundary: ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810187160:1032:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  165406ms] [ERROR] %o
+
+%s
+
+%s
+ ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810187160:1032:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, RenderErrorBoundary. @ http://localhost:5199/@vite/client:298
+[  165406ms] [ERROR] React Router caught the following error during render ReferenceError: ResponsiveContainer is not defined
+    at Dashboard (http://localhost:5199/src/views/Dashboard.tsx?t=1789810187160:1032:41)
+    at Object.react_stack_bottom_frame (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:14142:12)
+    at renderWithHooks (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:4400:19)
+    at updateFunctionComponent (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:5775:16)
+    at beginWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:6391:20)
+    at runWithFiberInDEV (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:944:66)
+    at performUnitOfWork (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9148:92)
+    at workLoopSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9044:37)
+    at renderRootSync (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:9028:6)
+    at performWorkOnRoot (http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:8715:27) @ http://localhost:5199/@vite/client:298
+[  624243ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810645918:0
+[  624251ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  624251ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  624251ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  624252ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  624252ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  624252ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  624252ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  624252ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  624252ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  640845ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810662589:0
+[  640845ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  640845ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  640846ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  640846ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  640846ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  640846ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  640847ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  640847ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  640847ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  651411ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810672933:0
+[  651416ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  651416ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  651416ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  651416ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  651417ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  651417ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  651417ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  651417ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  651417ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  661597ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810683124:0
+[  661602ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  661603ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  661603ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  661603ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  661604ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  661604ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  661604ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  661604ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  661604ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  669273ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810691077:0
+[  669273ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  669274ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  669274ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  669275ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  669275ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  669275ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  669275ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  669279ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  669280ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  677036ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810698792:0
+[  677037ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  677037ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  677037ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  677038ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  677038ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  677038ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  677038ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  677038ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  677038ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  693741ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810715431:0
+[  693747ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  693748ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  693749ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  693750ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  693750ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  693750ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  693751ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  693751ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  693751ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  709566ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810731222:0
+[  709572ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  709572ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  709572ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  709573ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  709573ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  709573ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  709573ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  709573ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  709574ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  726582ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810748284:0
+[  726588ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  726588ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  726588ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  726588ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  726589ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  726589ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  726589ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  726589ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  726589ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  733677ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810755421:0
+[  733677ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  733677ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  733678ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  733678ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  733678ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  733678ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  733678ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  733679ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  733679ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  742452ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810764135:0
+[  742453ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  742453ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  742453ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  742454ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  742454ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  742454ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  742454ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  742454ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  742455ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  755193ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810776883:0
+[  755199ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  755199ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  755200ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  755200ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  755200ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  755200ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  755201ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  755201ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  755201ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  768886ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810790584:0
+[  768892ms] [ERROR] [vite] Failed to reload /src/views/Dashboard.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  768892ms] [ERROR] [vite] Failed to reload /src/components/LoopBand.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  768892ms] [ERROR] [vite] Failed to reload /src/components/TranscriptDrawer.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  768892ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  768892ms] [ERROR] [vite] Failed to reload /src/views/Red.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  768893ms] [ERROR] [vite] Failed to reload /src/components/Shell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  768893ms] [ERROR] [vite] Failed to reload /src/views/Blue.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  768893ms] [ERROR] [vite] Failed to reload /src/views/Compliance.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  768893ms] [ERROR] [vite] Failed to reload /src/views/Evidence.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[  779740ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810790584:0
+[  780293ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810790584:0
+[  782392ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5199/src/data/fixtures.ts?t=1789810790584:0
+[  803784ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804
+[  823975ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804
+[  913027ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804
+[  920014ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804
+[  934215ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804
+[ 1089662ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5199/src/views/Purple.tsx?t=1789811111561:0
+[ 1089663ms] [ERROR] [vite] Failed to reload /src/views/Purple.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5199/@vite/client:298
+[ 1194191ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804
+[ 1220324ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804
+[ 1228606ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5199/node_modules/.vite/deps/react-dom_client.js?v=94d53635:15804

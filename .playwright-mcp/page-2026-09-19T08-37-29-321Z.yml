@@ -1,0 +1,39 @@
+- generic [ref=f14e3]:
+  - complementary [ref=f14e4]:
+    - generic [ref=f14e7]:
+      - generic [ref=f14e23]:
+        - generic [ref=f14e24]: Purplix AI
+        - generic [ref=f14e25]: Continuous assurance loop
+      - paragraph [ref=f14e26]: Continuous red, blue and purple teaming for models, agents and AI applications — where every number resolves down to the transcript that produced it.
+      - generic [ref=f14e27]:
+        - generic [ref=f14e28]:
+          - generic [ref=f14e30]: Red
+          - generic [ref=f14e31]: Attack
+        - generic [ref=f14e32]:
+          - generic [ref=f14e34]: Purple
+          - generic [ref=f14e35]: Assure
+        - generic [ref=f14e36]:
+          - generic [ref=f14e38]: Blue
+          - generic [ref=f14e39]: Defend
+    - generic [ref=f14e40]: Attack corpus authored in-house · records signed Ed25519
+  - main [ref=f14e41]:
+    - generic [ref=f14e42]:
+      - generic [ref=f14e43]:
+        - heading "Sign in" [level=1] [ref=f14e44]
+        - paragraph [ref=f14e45]: Use your SISA directory account.
+      - generic [ref=f14e46]:
+        - generic [ref=f14e47]:
+          - generic [ref=f14e48]: Work email
+          - textbox "Work email" [ref=f14e49]: sohan.k@sisainfosec.com
+        - generic [ref=f14e50]:
+          - generic [ref=f14e51]:
+            - generic [ref=f14e52]: Password
+            - button "Forgot?" [ref=f14e53] [cursor=pointer]
+          - textbox "Password" [ref=f14e54]: demo-preview
+        - generic [ref=f14e55] [cursor=pointer]:
+          - checkbox "Keep me signed in for 8 hours" [checked] [ref=f14e56]
+          - generic [ref=f14e57]: Keep me signed in for 8 hours
+        - button "Sign in" [ref=f14e58] [cursor=pointer]
+      - generic [ref=f14e59]: or
+      - button "Continue with SISA SSO" [ref=f14e63] [cursor=pointer]
+      - paragraph [ref=f14e74]: Preview build. Targets are tenant-scoped and require proof of ownership before any attack runs.

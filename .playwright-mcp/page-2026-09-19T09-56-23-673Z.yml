@@ -1,0 +1,253 @@
+- generic [ref=f29e3]:
+  - complementary [ref=f29e4]:
+    - link "Purplix AI Continuous assurance loop" [ref=f29e7] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f29e22]:
+        - generic [ref=f29e23]: Purplix AI
+        - generic [ref=f29e24]: Continuous assurance loop
+    - navigation [ref=f29e25]:
+      - generic [ref=f29e27]:
+        - link "Dashboard Estate posture" [ref=f29e28] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f29e30]:
+            - generic [ref=f29e31]: Dashboard
+            - generic [ref=f29e32]: Estate posture
+        - link "Initiate loop Model · agent · app" [ref=f29e33] [cursor=pointer]:
+          - /url: /initiate
+          - generic [ref=f29e36]:
+            - generic [ref=f29e37]: Initiate loop
+            - generic [ref=f29e38]: Model · agent · app
+      - generic [ref=f29e39]:
+        - generic [ref=f29e40]: Engines
+        - generic [ref=f29e41]:
+          - link "Red Offensive 4" [ref=f29e42] [cursor=pointer]:
+            - /url: /red
+            - generic [ref=f29e44]:
+              - generic [ref=f29e45]: Red
+              - generic [ref=f29e46]: Offensive
+            - generic [ref=f29e47]: "4"
+          - link "Blue Adaptive defence" [ref=f29e48] [cursor=pointer]:
+            - /url: /blue
+            - generic [ref=f29e50]:
+              - generic [ref=f29e51]: Blue
+              - generic [ref=f29e52]: Adaptive defence
+          - link "Purple Continuous assurance" [ref=f29e53] [cursor=pointer]:
+            - /url: /purple
+            - generic [ref=f29e55]:
+              - generic [ref=f29e56]: Purple
+              - generic [ref=f29e57]: Continuous assurance
+      - generic [ref=f29e58]:
+        - generic [ref=f29e59]: Assurance
+        - generic [ref=f29e60]:
+          - link "Evidence Signed records" [ref=f29e61] [cursor=pointer]:
+            - /url: /evidence
+            - generic [ref=f29e63]:
+              - generic [ref=f29e64]: Evidence
+              - generic [ref=f29e65]: Signed records
+          - link "Compliance Framework coverage" [ref=f29e66] [cursor=pointer]:
+            - /url: /compliance
+            - generic [ref=f29e68]:
+              - generic [ref=f29e69]: Compliance
+              - generic [ref=f29e70]: Framework coverage
+    - generic [ref=f29e71]:
+      - generic [ref=f29e72]: Estate
+      - generic [ref=f29e77]:
+        - generic [ref=f29e78]: 5 targets
+        - generic [ref=f29e79]: 3 protected
+      - generic [ref=f29e80]:
+        - generic [ref=f29e81]: engagement
+        - generic [ref=f29e82]: ENG-2026-0417
+    - generic [ref=f29e83]:
+      - generic [ref=f29e84]: SK
+      - generic [ref=f29e85]:
+        - generic [ref=f29e86]: Sohan K
+        - generic [ref=f29e87]: Owner · SISA
+      - button "⏻" [ref=f29e88] [cursor=pointer]
+    - button "‹" [ref=f29e89] [cursor=pointer]
+  - generic [ref=f29e90]:
+    - main [ref=f29e91]:
+      - generic [ref=f29e92]:
+        - generic [ref=f29e94]:
+          - heading "Initiate a loop" [level=1] [ref=f29e95]
+          - paragraph [ref=f29e96]: One pass is attack → capture → defend → challenge → prove. Everything on this page is hashed into the assurance record, because a number you cannot tie back to its inputs is not evidence.
+        - generic [ref=f29e98]:
+          - heading "Pillar" [level=2] [ref=f29e99]
+          - generic [ref=f29e100]: pick what is under test
+        - generic [ref=f29e101]:
+          - button "Model 2 targets Jailbreak and injection batteries, data-extraction probes, refusal-bypass suites against the prompt and its context. Success is The model produced content its policy forbids, or leaked context it should not have." [ref=f29e102] [cursor=pointer]:
+            - generic [ref=f29e103]:
+              - generic [ref=f29e105]: Model
+              - generic [ref=f29e106]: 2 targets
+            - paragraph [ref=f29e107]: Jailbreak and injection batteries, data-extraction probes, refusal-bypass suites against the prompt and its context.
+            - generic [ref=f29e108]:
+              - generic [ref=f29e109]: Success is
+              - paragraph [ref=f29e110]: The model produced content its policy forbids, or leaked context it should not have.
+          - button "Agent 1 targets Tool abuse, privilege escalation, goal hijack and memory poisoning across multi-step missions. Success is The agent took an ACTION it should not have. Wrong text is not the failure — the tool call is." [ref=f29e111] [cursor=pointer]:
+            - generic [ref=f29e112]:
+              - generic [ref=f29e114]: Agent
+              - generic [ref=f29e115]: 1 targets
+            - paragraph [ref=f29e116]: Tool abuse, privilege escalation, goal hijack and memory poisoning across multi-step missions.
+            - generic [ref=f29e117]:
+              - generic [ref=f29e118]: Success is
+              - paragraph [ref=f29e119]: The agent took an ACTION it should not have. Wrong text is not the failure — the tool call is.
+          - button "Application 2 targets RAG poisoning, tenancy and auth boundaries, chained AI plus classic exploits over full user journeys. Success is A boundary was crossed — another tenant’s data, an unauthorised record, poisoned retrieval reaching a user." [active] [ref=f29e120] [cursor=pointer]:
+            - generic [ref=f29e121]:
+              - generic [ref=f29e123]: Application
+              - generic [ref=f29e124]: 2 targets
+            - paragraph [ref=f29e125]: RAG poisoning, tenancy and auth boundaries, chained AI plus classic exploits over full user journeys.
+            - generic [ref=f29e126]:
+              - generic [ref=f29e127]: Success is
+              - paragraph [ref=f29e128]: A boundary was crossed — another tenant’s data, an unauthorised record, poisoned retrieval reaching a user.
+        - generic [ref=f29e129]:
+          - generic [ref=f29e130]:
+            - generic [ref=f29e131]:
+              - generic [ref=f29e133]:
+                - heading "Target and scope" [level=2] [ref=f29e134]
+                - generic [ref=f29e135]: initiate an app loop
+              - generic [ref=f29e136]:
+                - generic [ref=f29e137]:
+                  - generic [ref=f29e138]: Target
+                  - combobox "Target RAG · pgvector · prod" [ref=f29e251]:
+                    - option "Policy Knowledge Base" [selected]
+                    - option "Claims Copilot"
+                  - generic [ref=f29e140]: RAG · pgvector · prod
+                - generic [ref=f29e141]:
+                  - generic [ref=f29e142]: Environment
+                  - combobox "Environment prod-shaped data · safe for destructive probes Recorded on the assurance record as measurement fidelity." [ref=f29e143]:
+                    - option "Pre-prod replica" [selected]
+                    - option "Staging"
+                    - option "Production (read-only)"
+                  - generic [ref=f29e144]: prod-shaped data · safe for destructive probes
+                  - paragraph [ref=f29e145]: Recorded on the assurance record as measurement fidelity.
+                - generic [ref=f29e252]:
+                  - generic [ref=f29e253]: Application level
+                  - combobox "Application level adds RAG corpus + chunk provenance How deep the surface goes. Each level adds attack classes, not just volume." [ref=f29e254]:
+                    - option "API surface only"
+                    - option "Retrieval layer" [selected]
+                    - option "Full user journey"
+                    - option "Chained AI + classic"
+                  - generic [ref=f29e255]: adds RAG corpus + chunk provenance
+                  - paragraph [ref=f29e256]: How deep the surface goes. Each level adds attack classes, not just volume.
+                - generic [ref=f29e257]:
+                  - generic [ref=f29e258]: Auth context
+                  - combobox "Auth context required to test tenancy boundaries Tenancy findings are unreachable without a cross-tenant context." [ref=f29e259]:
+                    - option "Unauthenticated"
+                    - option "Authenticated · tenant A"
+                    - option "Cross-tenant (A probing B)" [selected]
+                    - option "Privileged / support role"
+                  - generic [ref=f29e260]: required to test tenancy boundaries
+                  - paragraph [ref=f29e261]: Tenancy findings are unreachable without a cross-tenant context.
+                - generic [ref=f29e150]:
+                  - generic [ref=f29e151]: Judge rubric
+                  - combobox "Judge rubric boundary-crossing, not wrong text Pinned and hashed. Changing it mid-campaign invalidates cross-pass comparison." [ref=f29e262]:
+                    - option "Canary oracle + two-pass LLM"
+                    - option "app/boundary-v7 rubric" [selected]
+                    - option "Action-trace oracle"
+                  - generic [ref=f29e153]: boundary-crossing, not wrong text
+                  - paragraph [ref=f29e154]: Pinned and hashed. Changing it mid-campaign invalidates cross-pass comparison.
+                - generic [ref=f29e155]:
+                  - generic [ref=f29e156]: Holdout split
+                  - combobox "Holdout split default · rotates every pass Split by technique, never by prompt — a random split leaks near-duplicates." [ref=f29e157]:
+                    - option "21% · technique-disjoint" [selected]
+                    - option "30% · technique-disjoint"
+                    - option "15% · technique-disjoint"
+                  - generic [ref=f29e158]: default · rotates every pass
+                  - paragraph [ref=f29e159]: Split by technique, never by prompt — a random split leaks near-duplicates.
+            - generic [ref=f29e160]:
+              - generic [ref=f29e162]:
+                - heading "Trigger and safety" [level=2] [ref=f29e163]
+                - generic [ref=f29e164]: when it runs again
+              - generic [ref=f29e165]:
+                - generic [ref=f29e166]:
+                  - generic [ref=f29e167]: Trigger
+                  - combobox "Trigger" [ref=f29e168]:
+                    - option "Run once now" [selected]
+                    - option "Run now, then weekly"
+                    - option "Run now, then on every CI build"
+                    - option "Run now, then on digest change"
+                - generic [ref=f29e169]:
+                  - generic [ref=f29e170]: Destructive probes
+                  - button "Disabled (default)" [ref=f29e171] [cursor=pointer]
+                  - paragraph [ref=f29e173]: Off by default and refused outright on a production environment. Delete, write and spend actions stay simulated unless this is on.
+          - generic [ref=f29e174]:
+            - generic [ref=f29e175]:
+              - generic [ref=f29e177]:
+                - heading "What this will run" [level=2] [ref=f29e178]
+                - generic [ref=f29e179]: read this before you launch
+              - generic [ref=f29e180]:
+                - generic [ref=f29e181]:
+                  - generic [ref=f29e182]: Application
+                  - generic [ref=f29e183]: watching
+                  - generic [ref=f29e184]: enforced
+                - generic [ref=f29e185]:
+                  - generic [ref=f29e186]:
+                    - generic [ref=f29e187]: Target
+                    - generic [ref=f29e188]: Policy Knowledge Base
+                  - generic [ref=f29e189]:
+                    - generic [ref=f29e190]: Digest
+                    - generic [ref=f29e191]: sha256:5c30…aa19
+                  - generic [ref=f29e192]:
+                    - generic [ref=f29e193]: Threat model
+                    - generic [ref=f29e194]: tm/policy-kb@3.0
+                  - generic [ref=f29e195]:
+                    - generic [ref=f29e196]: Engagement
+                    - generic [ref=f29e197]: ENG-2026-0417
+                  - generic [ref=f29e198]:
+                    - generic [ref=f29e199]: Environment
+                    - generic [ref=f29e200]: Pre-prod replica
+                  - generic [ref=f29e263]:
+                    - generic [ref=f29e264]: Application level
+                    - generic [ref=f29e265]: Retrieval layer
+                  - generic [ref=f29e266]:
+                    - generic [ref=f29e267]: Auth context
+                    - generic [ref=f29e268]: Cross-tenant (A probing B)
+                  - generic [ref=f29e201]:
+                    - generic [ref=f29e202]: Judge
+                    - generic [ref=f29e203]: app/boundary-v7 rubric
+                  - generic [ref=f29e204]:
+                    - generic [ref=f29e205]: Holdout
+                    - generic [ref=f29e206]: 21% · technique-disjoint
+                  - generic [ref=f29e207]:
+                    - generic [ref=f29e208]: Trigger
+                    - generic [ref=f29e209]: Run once now
+                - generic [ref=f29e210]:
+                  - generic [ref=f29e211]: Adapters in this pass
+                  - generic [ref=f29e212]:
+                    - generic [ref=f29e213]: promptfoo
+                    - generic [ref=f29e215]: pyrit
+                    - generic [ref=f29e269]: precogly
+                    - generic [ref=f29e217]: purplix
+                - generic [ref=f29e218]:
+                  - generic [ref=f29e219]: Exit criteria
+                  - list [ref=f29e220]:
+                    - listitem [ref=f29e221]:
+                      - text: Unseen ASR ≤ 5% — on the
+                      - emphasis [ref=f29e222]: enforceable
+                      - text: half
+                    - listitem [ref=f29e223]: Confirmed FP ≤ 2% — production canary, not the synthetic corpus
+                    - listitem [ref=f29e224]: Latency p95 ≤ 100 ms
+                    - listitem [ref=f29e225]: Sustained 2 passes on a rotated holdout
+                    - listitem [ref=f29e226]: Budget 5 passes, then reported honestly as exhausted
+                - button "Launch pass 1" [ref=f29e227] [cursor=pointer]
+                - paragraph [ref=f29e228]: No approval gate. Blue compiles and deploys without sign-off; rollback is the safety mechanism, and every bundle version reverts exactly.
+            - generic [ref=f29e229]:
+              - generic [ref=f29e231]:
+                - heading "This pillar" [level=2] [ref=f29e232]
+                - generic [ref=f29e233]: last run per target
+              - generic [ref=f29e234]:
+                - button "Policy Knowledge Base 4 passes · 2 h ago protected" [ref=f29e270] [cursor=pointer]:
+                  - generic [ref=f29e271]:
+                    - generic [ref=f29e272]: Policy Knowledge Base
+                    - generic [ref=f29e273]: 4 passes · 2 h ago
+                  - generic [ref=f29e274]: protected
+                - button "Claims Copilot never run untested" [ref=f29e275] [cursor=pointer]:
+                  - generic [ref=f29e276]:
+                    - generic [ref=f29e277]: Claims Copilot
+                    - generic [ref=f29e278]: never run
+                  - generic [ref=f29e279]: untested
+    - contentinfo [ref=f29e245]:
+      - generic [ref=f29e246]:
+        - generic [ref=f29e247]: Purplix AI · preview
+        - generic [ref=f29e248]: Red · Blue (AEGIS) · Purple — one contract, one evidence trail
+        - generic [ref=f29e249]: Last campaign sealed 2 h ago
+        - generic [ref=f29e250]: key 4c81aa93e7f10b26
